@@ -1,42 +1,17 @@
-# sv
+# About Me
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+I am a Software Development Engineer with a passion for Rust, Golang, and building efficient systems. I strive to apply my knowledge to advance science and technology for the betterment of society.
 
-## Creating a project
+## About Myself
 
-If you're seeing this, you've probably already done this step. Congrats!
+I am a dedicated Software Development Engineer with a strong passion for systems programming and web technologies. My journey involves deep dives into Rust, Golang, and building efficient, scalable systems. I believe in using technology as a tool to advance science and improve lives.
 
-```sh
-# create a new project
-npx sv create my-app
-```
+Beyond code, I am driven by philosophical inquiry—constantly asking "why" and seeking truth in both logic and life. I enjoy contributing to open source, exploring new languages, and refining my craft.
 
-To recreate this project with the same configuration:
+## Technical Skills
 
-```sh
-# recreate this project
-npx sv create --template minimal --types ts --no-install .
-```
+### Programming Languages
+- Golang, Rust, TypeScript, C, Python, Java
 
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+### Web & Systems
+- SvelteJS, Dioxus, React, PostgreSQL, HTML/CSS, Embdedded (Arduino/8051)

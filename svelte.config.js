@@ -21,12 +21,15 @@ const config = {
 		adapter: adapter({
 			// default options are shown. On some platforms
 			// these options are set automatically — see below
-			pages: 'build',
-			assets: 'build',
-			fallback: undefined,
+			pages: 'docs',
+			assets: 'docs',
+			fallback: '404.html',
 			precompress: false,
 			strict: true
-		})
+		}),
+		paths: {
+			base: process.env.BASE_PATH || '/abishekatp'
+		}
 	}
 };
 

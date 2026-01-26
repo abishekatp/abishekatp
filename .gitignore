@@ -7,6 +7,7 @@ node_modules
 .wrangler
 /.svelte-kit
 /build
+# /docs is used for GitHub Pages deployment
 
 # OS
 .DS_Store

@@ -1,10 +1,11 @@
 <script lang="ts">
     import { page } from "$app/stores";
+    import { base } from "$app/paths";
 
     const links = [
-        { href: "/", label: "Home" },
-        { href: "/about", label: "About" },
-        { href: "/contact", label: "Contact" },
+        { href: `${base}/`, label: "Home" },
+        { href: `${base}/about`, label: "About" },
+        { href: `${base}/contact`, label: "Contact" },
     ];
 
     let isMenuOpen = false;
@@ -17,7 +18,7 @@
         <div class="flex items-center justify-between h-16">
             <div class="flex-shrink-0">
                 <a
-                    href="/"
+                    href="{base}/"
                     class="text-xl font-serif font-bold text-slate-100 tracking-wider"
                 >
                     ABISHEK P

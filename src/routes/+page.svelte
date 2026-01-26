@@ -1,6 +1,7 @@
 <script lang="ts">
     import type { PageData } from "./$types";
     import { formatDate } from "$lib/utils";
+    import { base } from "$app/paths";
 
     export let data: PageData;
     // ... (rest of imports)
@@ -37,13 +38,13 @@
             </p>
             <div class="pt-8 flex justify-center gap-4">
                 <a
-                    href="#categories"
+                    href="{base}#categories"
                     class="px-8 py-3 bg-slate-100 text-philosophy font-semibold rounded-full hover:bg-white transition-all transform hover:scale-105"
                 >
                     Read Blogs
                 </a>
                 <a
-                    href="/about"
+                    href="{base}/about"
                     class="px-8 py-3 border border-slate-700 text-slate-300 font-semibold rounded-full hover:border-slate-500 hover:text-white transition-all"
                 >
                     About Me
@@ -62,7 +63,7 @@
         <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             {#each categories as cat}
                 <a
-                    href="/{cat.slug}"
+                    href="{base}/{cat.slug}"
                     class="group relative overflow-hidden rounded-2xl p-8 border border-white/5 transition-all duration-300 {cat.color} hover:shadow-2xl hover:border-accent/50"
                 >
                     <div class="relative z-10">
@@ -112,7 +113,7 @@
                                 >{formatDate(post.date)}</time
                             >
                             <a
-                                href="/{post.category}"
+                                href="{base}/{post.category}"
                                 class="relative z-10 rounded-full bg-white/10 px-3 py-1.5 font-medium hover:bg-white/20 capitalize"
                                 >{post.category}</a
                             >
@@ -120,7 +121,9 @@
                         <h3
                             class="mt-3 text-xl font-semibold leading-6 text-slate-100 group-hover:text-accent transition-colors"
                         >
-                            <a href="/{post.category}/{post.year}/{post.slug}">
+                            <a
+                                href="{base}/{post.category}/{post.year}/{post.slug}"
+                            >
                                 <span class="absolute inset-0"></span>
                                 {post.title}
                             </a>

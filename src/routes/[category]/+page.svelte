@@ -1,6 +1,7 @@
 <script lang="ts">
     import type { PageData } from "./$types";
     import { formatDate } from "$lib/utils";
+    import { base } from "$app/paths";
 
     export let data: PageData;
     $: ({ posts, category } = data);
@@ -55,7 +56,9 @@
                                 <h2
                                     class="text-2xl font-bold text-slate-100 group-hover:text-accent transition-colors"
                                 >
-                                    <a href="/{category}/{year}/{post.slug}">
+                                    <a
+                                        href="{base}/{category}/{year}/{post.slug}"
+                                    >
                                         {post.title}
                                     </a>
                                 </h2>
@@ -80,7 +83,7 @@
             >
                 <p class="text-slate-500">No entries found for this era yet.</p>
                 <a
-                    href="/"
+                    href="{base}/"
                     class="text-accent hover:underline mt-4 inline-block"
                     >Return Home</a
                 >

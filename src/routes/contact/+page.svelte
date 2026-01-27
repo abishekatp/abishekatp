@@ -34,7 +34,7 @@
         </a>
 
         <a
-            href="https://github.com/abishek-atp"
+            href="https://github.com/abishekatp"
             target="_blank"
             class="block w-full p-6 rounded-2xl bg-white/5 border border-white/10 hover:border-white/50 hover:bg-white/10 transition-all group"
         >
@@ -46,6 +46,4 @@
             <p class="text-slate-400">View my code</p>
         </a>
     </div>
-
-    <p class="mt-12 text-slate-500 text-sm">Based in India • +91 9080637689</p>
 </div>

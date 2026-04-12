@@ -1,4 +1,8 @@
-# The Subtle Art of Forgiving
+---
+title: The Subtle Art of Forgiving
+date: 2026-04-13
+description: The Subtle Art of Forgiving
+---
 
 Recently life got me thinking that why do people hurt each other? A lot of times this happens with or without an intention. Clashes between friends when one crosses the boundary of the other. Fights between couples happen when one's expectations are unmet. Problems inside the family happen because everyone wants something that is also wanted by someone else. There are thousands of reasons that I can list down here. These are just a few of them. But did we ever think about the reason behind all of these things? 
 

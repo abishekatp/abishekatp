@@ -30,8 +30,8 @@
         <p class="text-slate-400 max-w-2xl mx-auto">
             {#if category === "philosophy"}
                 Reflections on existence, meaning, and the human condition.
-            {:else if category === "coding"}
-                Snippets, tutorials, and deep dives into the world of software.
+            {:else if category === "technology"}
+                Snippets, tutorials, and deep dives into the world of technology.
             {:else}
                 My thoughts and writings on {category}.
             {/if}

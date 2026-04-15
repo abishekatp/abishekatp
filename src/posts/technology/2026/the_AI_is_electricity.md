@@ -1,6 +1,6 @@
 ---
 title: AI is the new Electricity and Chaos is the Ladder
-date: 2026-04-13
+date: 2026-04-15
 description: In this blog we will see why AI is going to change our world for better.
 ---
 

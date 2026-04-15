@@ -14,10 +14,10 @@
             color: "bg-philosophy-light text-slate-100 hover:border-accent",
         },
         {
-            name: "Coding",
-            slug: "coding",
+            name: "Technology",
+            slug: "technology",
             desc: "Technical deep dives and tutorials.",
-            color: "bg-coding-light text-blue-100 hover:border-blue-400",
+            color: "bg-technology-light text-blue-100 hover:border-blue-400",
         },
     ];
 </script>

@@ -33,8 +33,8 @@
                 <span class="text-accent italic">Seeking Truth</span>
             </h1>
             <p class="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto">
-                I am Abishek P, a Software Engineer. This is my digital garden
-                where I cultivate ideas on technology and philosophy.
+                Hey I am Abishek, I write about technology, philosophy, 
+                and the intersection of both. I write to think.
             </p>
             <div class="pt-8 flex justify-center gap-4">
                 <a

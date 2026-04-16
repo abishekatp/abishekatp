@@ -21,7 +21,7 @@
         </a>
 
         <a
-            href="https://linkedin.com/in/"
+            href="https://www.linkedin.com/in/abishek-p/"
             target="_blank"
             class="block w-full p-6 rounded-2xl bg-white/5 border border-white/10 hover:border-blue-500/50 hover:bg-white/10 transition-all group"
         >

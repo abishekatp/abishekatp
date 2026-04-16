@@ -22,7 +22,7 @@
                 GitHub
             </a>
             <a
-                href="https://linkedin.com/in/"
+                href="https://www.linkedin.com/in/abishek-p/"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="text-slate-400 hover:text-white transition-colors"

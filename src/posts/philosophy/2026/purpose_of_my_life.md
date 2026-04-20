@@ -1,5 +1,5 @@
 ---
-title: What is the purpose of my life?
+title: Purpose is Overrated
 date: 2026-04-19
 description: I keep on searching with a hope of finding myself somewhere!  தேடிக்கொண்டே இருக்கிறேன், எங்கேயாவது என்னை கண்டறிந்துவிட மாட்டேனா என்று!
 ---

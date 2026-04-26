@@ -1,7 +1,7 @@
 ---
 title: Escapism - Slow Poison or Healing Medicine
 date: 2026-04-24
-description: In the world of distractions, be the one who distract themselves from distractions.
+description: In the world of distractions, be the one who distracts yourself from distractions.
 ---
 
 Yesterday I went to bed early and started thinking about some recent events in my life. Instead, I felt the urge to take the phone, open Instagram or YouTube and scroll some reels or shorts. I’ve noticed this pattern for a long time now. Whenever I am bored or thinking about something uncomfortable I jump into this path. You have probably experienced this too. To distract ourselves from something, we open some social media apps and start scrolling, then hours go by in a blink of an eye. We are doing this instead of focusing on some boring stuff that will help us improve ourselves. After some time, we even forget about what we were thinking of and start focusing on the next unavoidable thing that needs our attention.

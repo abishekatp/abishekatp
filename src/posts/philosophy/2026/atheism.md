@@ -1,7 +1,7 @@
 ---
 title: Atheism - The Ability and Strength to Take Responsibility
 date: 2026-05-03
-description: Can we really become strong enough to take responsibility for our choices, actions and outcomes?
+description: Can we ever unchain ourselves from the hope of someone saving us all?
 ---
 
 Today I would like to share my good old days, when I didn't have to worry about anything. My parents took care of my basic needs like food, clothes and shelter, and the almighty God took care of everything else. At that time, I only had one thing to worry about, and that was my studies. I was pretty good at it, thanks to my grandfather. He was a retired school teacher who was working as a librarian at that time. He used to help me with all my studies and never missed a chance to motivate me to do things better.

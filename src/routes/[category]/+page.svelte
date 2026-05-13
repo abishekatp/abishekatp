@@ -32,6 +32,8 @@
                 Reflections on existence, meaning, and the human condition.
             {:else if category === "technology"}
                 Snippets, tutorials, and deep dives into the world of technology.
+            {:else if category === "city-of-paras"}
+                A fictional saga set in the year 9925 — stories from The City of Paras.
             {:else}
                 My thoughts and writings on {category}.
             {/if}

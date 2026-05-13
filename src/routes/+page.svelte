@@ -19,6 +19,12 @@
             desc: "Technical deep dives and tutorials.",
             color: "bg-technology-light text-blue-100 hover:border-blue-400",
         },
+        {
+            name: "The City of Paras",
+            slug: "city-of-paras",
+            desc: "A fictional saga set in the year 9925.",
+            color: "bg-paras-light text-indigo-100 hover:border-indigo-400",
+        },
     ];
 </script>
 

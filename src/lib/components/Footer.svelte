@@ -25,7 +25,7 @@
         </div>
         <div class="flex space-x-6">
             <a
-                href="https://github.com/abishek-atp"
+                href="https://github.com/abishekatp"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="text-slate-400 hover:text-white transition-colors"

@@ -1,3 +1,7 @@
+<script>
+    import { base } from '$app/paths';
+</script>
+
 <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
     <header class="mb-16">
         <h1 class="text-5xl font-serif font-bold text-slate-100 mb-6">
@@ -128,7 +132,7 @@
                     but it may not be used for commercial purposes or adapted
                     into derivative works without prior written approval. For
                     commercial licensing inquiries, please reach out via the
-                    <a href="/contact" class="text-accent hover:text-white underline underline-offset-2 transition-colors">
+                    <a href="{base}/contact" class="text-accent hover:text-white underline underline-offset-2 transition-colors">
                         contact page
                     </a>.
                 </p>

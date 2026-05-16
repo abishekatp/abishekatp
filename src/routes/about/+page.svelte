@@ -99,5 +99,40 @@
                 </div>
             </div>
         </section>
+
+        <!-- License -->
+        <section>
+            <h2
+                class="text-3xl font-serif font-bold text-slate-100 mb-8 border-b border-white/10 pb-4"
+            >
+                Content License
+            </h2>
+            <div class="prose prose-invert prose-lg max-w-none text-slate-400">
+                <p>
+                    All content on this website — including articles, stories,
+                    essays, and philosophical writings — is the original work of
+                    Abishek P and is licensed under the
+                    <a
+                        href="https://creativecommons.org/licenses/by-nc-nd/4.0/"
+                        target="_blank"
+                        rel="noopener noreferrer license"
+                        class="text-accent hover:text-white underline underline-offset-2 transition-colors"
+                    >
+                        Creative Commons Attribution-NonCommercial-NoDerivatives
+                        4.0 International (CC BY-NC-ND 4.0)
+                    </a>
+                    license.
+                </p>
+                <p class="mt-4">
+                    You are free to share the content with proper attribution,
+                    but it may not be used for commercial purposes or adapted
+                    into derivative works without prior written approval. For
+                    commercial licensing inquiries, please reach out via the
+                    <a href="/contact" class="text-accent hover:text-white underline underline-offset-2 transition-colors">
+                        contact page
+                    </a>.
+                </p>
+            </div>
+        </section>
     </div>
 </div>

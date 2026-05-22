@@ -1,0 +1,27 @@
+---
+title: Fictions Tell More than Just Stories
+date: 2026-05-23
+description: Why did I start reading (Fiction)?
+---
+
+If I remember correctly, a few years back — it was not very long ago — my brother suggested that I read a book called The Alchemist. He said that it was a book about a shepherd and his dream. Recently I read it and it was great. Soon I'm planning to write a blog about it.
+
+But initially, at that time, I didn't give much importance to reading fiction. I thought that I would rather sit and read hardcore science or math books and spend months trying to understand them. In fact, that's how I had read the discrete maths book with a thousand pages and the theory of computation book. But recently I am reading fiction with great respect. What changed?
+
+First of all, I agree with the fact that the written form of content is the most dense way of storing and communicating any information. Also, reading well-written content is the most efficient and fastest way to consume any information.
+
+Then second, people know and there is proven research that when we read stories, we become active listeners of the story rather than just passive consumers. The latter is the case with watching a movie or television series. When we watch a movie or television series, it shows everything you need to see; there is no space for you to imagine your own world.
+
+But when you read a book, you imagine your own world. You create characters and the world around them in your imagination. This is very powerful and connects us more with the characters in the book and the book itself. This is one of the important reasons to start reading books in general.
+
+For the same reason, I had always preferred reading books, blogs, or some form of written content, instead of just watching videos. One funny thing is that, regardless of whether I read or not, I had the habit of buying or collecting books from a young age. From my childhood, I had the dream of setting up a big library in my home. In fact, I had converted a small shelf in my home into a library at that time. I think this was influenced by my grandfather, who used to read a lot of books and worked as a librarian at that time. I used to read storybooks in that library during those times.
+
+But as I grew up, I restricted myself only to scientific or technical content. I still didn't get enough motivation to read fiction.
+
+I thought if I wanted to read fiction, I would rather watch a movie or television series, which was much more easy and accessible. But there was a turning point — knowingly or unknowingly, I started reading a few dialogues written by Plato. I had read about 7 dialogues, I think, and planned to complete the remaining dialogues as well.
+
+The dialogues of Plato taught me something different. They made the concept of reading or writing more powerful. I realised that stories do not only talk about characters and the world around them. More importantly, they talk about ideologies. Yes, that's exactly what I observed from the dialogues of Plato. Plato could have just put all his wisdom in bullet points, which would have been very easy for him. But I could not imagine that the list would have survived and lived on after 2,000 years. Rather, Plato had written dialogues with real people in them. We also believe that those were real conversations between real people at that time.
+
+So my conclusion was that stories live longer and speak louder. They tell not only stories but also cultures, lifestyles, the good and bad of societies, the achievements and atrocities of kingdoms, the life of the common man or woman, and many more. Most importantly of all, they whisper ideas to the present and the future. It made me realise stories are much more important than I thought. 
+
+After this realization, reading fiction didn’t seem like just a way to pass the time. Though it is one of the great ways to do that. So when I read such books, it changes how I think about the world. It changed my way of thinking and actions. So it does make sense why people are so obsessed with telling or hearing stories.

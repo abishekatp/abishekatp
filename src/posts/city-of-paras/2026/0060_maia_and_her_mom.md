@@ -1,0 +1,62 @@
+---
+title: Maia and Her Mom
+date: 2026-06-09
+description: A fictional saga set in the year 9925 — stories from The City of Paras.
+---
+
+It was the next day after meeting Maia's dad. Reev and Maia entered the Agro Farm together, they were walking side by side, Maia was sidling and chatting with Reev. She had to walk faster to keep up with his casual walk.
+
+On the other side of the path people were coming out of the facility. "Maia, do you know something? I wanted to tell you yesterday itself," asked Reev. "What was that? Was it something about my dad? Was he speaking too much?" replied Maia with a bashful smile on her face.
+
+"About your dad — I don't think he talks too much. By the way, I really enjoyed that conversation with him. I would be more than happy to have another one. Also, some of the problems that his committee is trying to solve have connections with my project as well," replied Reev.
+
+"Oh really, he will visit the city in a few months, maybe I will set up a meeting with him. Maybe you guys could go on a date?" said Maia while giggling.
+
+"Yeah, that would be great, Maia. You could have done it earlier," said Reev with a smile on his face. Then he continued, "Actually, what I wanted to say was that your dad looks totally different from you. Did anyone ever tell you that?"
+
+"Yes, I have heard that sometimes. My dad always used to tell me that I resembled my mom. But I could barely remember her looks. She left us when I was four years old. The one thing that reminded me of her was that one time we went camping. After a long night, me and my dad were sitting outside the tent, she walked out of the tent, her dark skin was glowing like gold in the morning sun. Even if I imagine it now, she looked like an angel," said Maia.
+
+"Really, why do you never talk about her? What's her name? Also, don't judge me here — what's your dad's name? I totally forgot to ask him yesterday," Reev blurted out.
+
+She replied that her father's name was Mridaan and her mother's was Ridva. As they were speaking, they sat on a bench nearby. It was a fine morning with a cool breeze, and people were coming and going out of the facility.
+
+"My dad used to tell me that she had hazel eyes and slightly curly hair. I could barely recollect her based on those memories. I missed her initially, but nowadays I am used to that feeling," said Maia. She grumbled that she never got to spend any time with her while her eyes were brimming.
+
+"Can I ask you something, Maia?" Reev asked her with hesitation. "Yes, go ahead," said Maia. "What happened to your mom?" Reev mumbled.
+
+"I used to ask about that all the time. I thought, didn't she love me enough not to leave me? I could never get an answer from him. He loves her too much to make her an enemy of her own daughter. But later I came to know that she left us to join some liberation army," said Maia.
+
+"I'm very sorry to hear that. I can't even imagine what you might have gone through. I know you are the tough ones — never imagined this much," said Reev, trying to console her. Then they stood up and started strolling towards the entrance of the facility. After scanning their hands at the entrance, they got into the air shuttle and there were a few other people who joined them.
+
+The air shuttle slowly took off and they could see the whole facility from a bird's-eye view. The air shuttle looked like an elliptical cylinder. We could see everything from inside and the same from outside. As it was slowly lifting up, there were a few tens of big tent-like structures, each with a small building at the front. This whole area was fenced and there were surveillance cameras everywhere.
+
+At the center, there was a pond-like structure, but it was the size of a big lake. Surrounding the lake there were large trees separating it from the rest of the facility. There were also a few trees here and there among the buildings. The air shuttle glided through the sky while both of them were glancing outside at the view.
+
+They were silent for a few minutes, and the air shuttle started descending slowly near section B2. Both of them got down there. At the entrance it was instructed that only authorised personnel were allowed inside the research section. Both of them scanned their hands and entered the building. There was a wall separating the building from the rest of the structure, but there was a window through which we could see the rest of it. The area behind the wall was dedicated to growing plants. There were a few people walking around there.
+
+Both of them settled down in their seats. Then after a few minutes, Reev broke the silence. "Can I ask you one more thing, Maia?" said Reev. "Yes, tell me, Reev," nodded Maia. "What is that liberation army that you were talking about?" stuttered Reev, with hesitation that he might seem ignorant.
+
+Maia started explaining, "Oh Reev, you are so focused on your project that you don't know what's happening in our country. I assume you know that our country, The Samanius, tries to follow ideas from communism and democracy. It provides food, education, transportation, and other basic needs for free till the age of 20\. Education is mandatory till the age of 15\. Healthcare is provided free of cost to everyone of all ages."
+
+Reev interrupted and said, "I know about all these things, Maia. Didn't we learn all these things in school itself? Also, this is good, right? It ensures that all people get equal rights to basic needs like food, education, and health. Also, it took us many decades to implement this in our country — what would be the problem with that?"
+
+"Let me finish, Reev," said Maia and continued, "So the problem is not till the age of 20 — that is actually good and the majority of people agree with this. But after the age of 20 we need to work to earn credits, and the credits are given based on either the time or difficulty of the work."
+
+As they were talking, their chief research scientist and a few other people entered the building. Reev nodded with a smile while looking at him; Maia turned towards him and greeted him.
+
+Reev was eagerly waiting for Maia to tell him something interesting. But so far everything she had told him he felt he already knew. So he interrupted again, "This is also good, right? This ensures that no one becomes lazy and makes the world competitive in a healthy way. Also, basic needs like education and food are so cheap that we would have to work very little to get them. For example, I started earning my credits at the age of 12 — without this system, I would not have made it this far."
+
+"You are very close to the real problem, Reev. To avoid economic inequality, we have set an upper limit on how many credits one can earn over their lifetime. There are people who have a problem with this — they think that it has eradicated the individual rights of citizens. They believe that we are going against the natural order of things and that it is totally against the survival of the fittest."
+
+"But Maia, we had been living based on this principle for a long time in history. It has caused so many miseries for so many people and other species. We have put tremendous effort and dedication into reaching where we are today. Don't you agree with me?" said Reev.
+
+"Yes, I totally do, Reev. But their points don't end there. Because of this eradication of individualism, people lack motivation and our country lacks innovation. Most other countries follow the free market ideology, so anyone can start a business and grow it as much as they can. Because of that, they are so advanced in science and technology. They have already established colonies on the Moon and are soon planning on establishing multiple colonies on Mars too — but here we are still figuring out how to reduce the inequalities between different cities and states of the country and trying to make sure everyone gets everything," replied Maia.
+
+"I agree with that, Maia — that's the exact reason why I wanted to become a research scientist. But we also read and see how people from those countries suffer. Only a small set of people live with tremendous power and luxury, while others are fighting for their daily survival," retorted Reev.
+
+"Don't be angry with me, Reev — I am not the one supporting this. After all, I lost my mom for this. But their point is that if we are the only ones lagging behind the rest of the world and they gain tremendous power over us, then what will be the situation of our country? Is it okay to lose everyone by trying to ensure everyone gets everything?" said Maia.
+
+"I am sorry, Maia, I didn't mean to hurt you. But you know me — I get out of control when I am in an argument. The question you are asking is the dilemma between morality and survival. Throughout history, survival has always won this fight. We are trying to change that. I know it's not going to be easy — for goodness' sake, we don't even know whether it's possible — but I want to be optimistic here," said Reev.
+
+"Yes, Reev, I also hope the same. If we speak about this it will take us the whole day — maybe we can do it some other time. Let's focus on our work today," said Maia with a slight smile on her face, and both of them rolled their chairs towards their desks.
+

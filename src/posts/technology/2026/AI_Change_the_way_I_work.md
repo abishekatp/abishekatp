@@ -1,6 +1,6 @@
 ---
 title: How did AI change the way I work?
-date: 2026-04-15
+date: 2026-06-14
 description: The things we need to focus on in this AI era
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Boys - The Capitalism in Its Worst Form
 date: 2026-06-18
-description: It's not just another super hero series
+description: It's not just another super hero story!
 ---
 
 Recently I watched this television series. The Boys was originally inspired by the comic with the same name. Initially it was not a very interesting plot. What's the point if the most powerful superheroes are not saving the world, but being narcissistic people. I am not going to give any explicit spoilers, but if you want to experience these things by watching yourself, don't read further.

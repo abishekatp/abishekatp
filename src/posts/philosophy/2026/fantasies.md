@@ -1,0 +1,28 @@
+---
+title: The End Doesn't Feel As Much As We Fantasize
+date: 2026-06-20
+description: Don't always climb Everest because you like the peak. Do it when you like climbing
+---
+
+Yesterday I was watching a Tamil movie "Kandukonden Kandukonden," and specifically the character Meenakshi caught my eye. She was a dreamer. She was fantasizing so much about her future partner or husband that she had put herself in a lot of pain.
+
+Another event happened in my life: I bought something that I had been working so hard for over the last two years. There were a lot of moments where I lost all my hope in it, but I still worked hard, thinking that in the end there would be some big Eureka moment. Today it's done. But there is no big Eureka moment as I had imagined. It is just another day in my life.
+
+I am not totally unhappy about it. I am happy that I worked so hard to make my life better and that it is finally done. There were a lot of learnings in this process that I would have never learnt without doing this. So it is good, but I didn't always enjoy this process. When I think about it, there are a lot of people who fantasize about the future. It's not a very unusual thing to do.
+
+Have you ever fantasized about things? Have you ever fantasized so much about something that even when it happened, it didn't satisfy your soul? You fantasized so much about it that the reality didn't even come close to your fantasy. You dreamt so much about the end that you had forgotten to enjoy the process. If you are, then you are not alone. I am a big fantasizer myself. I used to have fantasies about a lot of things.
+
+In my school days, I fantasized about becoming a doctor; later I thought of building a house that would be competing with forts. But a lot of them didn't survive my adulthood. Some fantasies do happen and some do not.
+
+There is nothing wrong with fantasization. After all, today's world is built on top of the fantasization of great people in our past. So, as people say, these fantasies do help us reach our goals. But life is not always about fantasies; there are a lot of little things or little moments in the process of fantasizing about big things. We always fantasize about the end; we forget about what actually matters. The process.
+
+The final day of my school didn't feel as much as I fantasized; it was just another day. Today when I try to think about my school days, I don't cherish that final day when I completed all my exams. But I think about those sleepless nights when I studied for my exams, those childhood cries or laughs that I had for each of the things that I considered a failure or success, those silly fights with my friends which I hated so much at that time.
+
+So when I think about it, the climax is not always the important part of the movie, but rather the plot.
+
+There is a saying that in a hundred years all of us will be dead. Strangers will be living in our houses. Some strange people will be driving our cars. The cities will change, people in those cities will change, music and culture will change, for god's sake there might be things that we might not even be able to think about today. None of the people are going to remember us. Maybe a few of them may remember us, but for them we are just names. Life goes on with or without us.
+
+So instead of always fantasizing about the future, cherish your present. Love the people around you. Give importance to the people you care about and people who care about you. Be thankful for the things that are already happening to you. Do the things that you love, things that make you happy as you do them, not the ones that you think will make you happy in the future.
+
+I am not saying don't fantasize or fight for your dreams. But you should fight for your dreams when you enjoy the fight itself, not when you fantasize about the victory at the end. Because victory might or might not come, but those fights are going to be written not only in history, but also in your heart when you leave this world.
+

@@ -1,4 +1,8 @@
-# The Hesitation, The Girl and The Engineer
+---
+title: The Hesitation, The Girl and The Engineer
+date: 2026-06-22
+description: A fictional saga set in the year 9925 — stories from The City of Paras.
+---
 
 It's been a few months since Reev went to meet Professor Adin. It was almost the end of his shift. A few people were getting ready to leave the facility. Reev moved towards Maia with hesitation and asked her, "Hey Maia, do you have a minute to talk?"
 

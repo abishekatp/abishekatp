@@ -1,0 +1,78 @@
+# The Hesitation, The Girl and The Engineer
+
+It's been a few months since Reev went to meet Professor Adin. It was almost the end of his shift. A few people were getting ready to leave the facility. Reev moved towards Maia with hesitation and asked her, "Hey Maia, do you have a minute to talk?"
+
+"Yes, of course, Reev. You seemed off for a couple of weeks. What's the matter?" asked Maia.
+
+"Oh, that — I have been worrying about my research. A few weeks ago I got a call from Professor Adin. He said the research committee would like to meet me in person to discuss the details and implications of my thesis. Since then my mind has become chaotic. It started working like a quantum computer calculating all the future possibilities — I kept on thinking about what might happen," said Reev.
+
+He wanted to ask her out for some time now. But he was waiting for the right time. Each time he tried to start the conversation about this, something happened and they went on discussing something else. He thought he would ask her out once his job was confirmed here. It had been a few months since his training period got over, so he was planning to ask her to show him around the city.
+
+But he couldn't pull himself together to do that. It was not a very easy task for him. He could sequence and simulate a plant's entire genome in minutes, but not ask her out. He was thinking about all the possibilities that would happen.
+
+While he was thinking about this, his heart rate rose and his hands started trembling. He didn't want to get caught trembling, so he placed his hands on the table and clasped them. Then Maia started speaking, which made him feel a little better.
+
+"Oh, that's great, Reev — you have been telling me about that since you joined here. I hope you have prepared well for that," said Maia.
+
+"Yes, Maia, I did whatever I could, but I am very nervous about it. For the last few weeks I could not sleep properly. I have been waiting for this moment for a long time. If I mess up anything, I may not get another chance," said Reev.
+
+"Don't worry, Reev, you will do fine," said Maia, trying to comfort him.
+
+"Thanks, Maia, I am hoping for the same. People say don't worry about things that can't be controlled, but that doesn't work well for me. I am the kind of person who thinks — if I put in enough effort, I could do anything. I always blame myself for any outcome that I face."
+
+"Oh, I know — remember that one time when we had to move a whole batch of production to the next phase? You were telling us that you could have prevented it by predicting that plant disease. I never understood how you could have done that," said Maia and chuckled. A soft smile was playing on his face as she was teasing him. Suddenly there was another voice interrupting them.
+
+"What are you scientists laughing about?" said Kugan. He was an engineer who had been working at the facility for a year now. He was short and wearing some kind of yellow suit. They could see his face alone through the transparent part of the suit, but his voice sounded like a robot speaking to them.
+
+"Are you not going to remove those?" asked Maia. "Will do, Maia, don't worry. I was just going to do that but you guys interrupted me with your laugh," replied Kugan.
+
+"Yeah, yeah. Whatever — first remove those things. It looks like you came straight out of a space shuttle or something."
+
+"Of course, I am going to come out of one someday — you will see soon. It's not very far from today. I even put in an application again for that," said Kugan. While speaking, he was removing the suit and putting it away in a locker.
+
+"So now tell me, what were you guys talking about?" asked Kugan again.
+
+"Oh, that — I was telling her about my research proposal," Reev opened up after some silence.
+
+"Are you guys working on some new plans for next year's production? But our current plan is working well, right? It has given more output than we had expected. Don't overwork, guys — it's not like you are going to be paid extra credits for that," said Kugan with a sudden laugh. Both Maia and Reev started laughing.
+
+"Actually, it was not directly related to our work here. I was proposing some research ideas to the central learning center, and we were discussing that."
+
+"Really? That's interesting. It has just been a few months since your training period was completed. Are you already planning to quit?" asked Kugan with a surprised look on his face.
+
+"I am not planning on that anytime soon, Kugan. I had seen in the news that our country has recently shown huge momentum in setting up a colony on the Moon due to peer pressure from other countries. At the beginning of next year, our country is planning to send citizens beyond space stations to set up camp on the Moon. Some other countries have already set up successful camps there. They are very close to setting up camps on Mars as well," said Reev.
+
+Kugan interrupted him and asked, "Yeah, I also heard about that. The application I was talking about is for this very thing. I am eagerly waiting for the result. I want to set up a camp for our country on the Moon. But what are you going to do about that?"
+
+"You see, even though those countries have set up camps on the Moon, it's very tough for them to set up big colonies there. It is due to two major problems. One is the extreme environment — radiation, pressure, and temperature — and there is also the vacuum. Though they are very close to cracking those problems, how can we survive there in the long term without a consistent supply of food and other resources?" asked Reev. Before he could say anything further, Kugan interrupted him.
+
+"Yeah, that's a real problem, Reev. I understand that. I thought you didn't have much knowledge about space technologies since you are from a biology background. But it seems you have a good understanding of space tech as well. Currently we are transporting everything from Earth. For small camps it is working out well, but to either set up big colonies or move part of the human species to other planets like Mars, it won't be sustainable," said Kugan with curious eyes. He suddenly got serious after hearing about the Moon colony. He acted like a child after hearing about the mystery man living next door.
+
+"As you said, transporting food from Earth to other planets won't be sustainable, so I was proposing that we try to cultivate it on the Moon — or in that case, any other planet," said Reev.
+
+"But the Moon is full of regolith, contains zero organic matter, no microbes, and contains toxic metals. In this environment, plants can't grow at all. Since the Moon doesn't have any atmosphere, millions of years of micrometeorite collisions have made the regolith into sharp, glassy particles that will literally tear off the roots of plants. How can we grow anything there?" asked Kugan.
+
+While these two were speaking, Maia was listening while glancing at something on her system. She had heard about this research many times from Reev. But this time someone new was there to argue with Reev, which was fun to watch. So she started focusing on them.
+
+Reev started to answer Kugan's question. "Yes, that's exactly the problem. Other countries are trying to solve it by using hydroponic — water-based — farming, by extracting essential nutrients from the Moon's soil. This is also not a scalable approach. If we want to grow a forest there, we have to figure out some other way."
+
+"Yes, I can understand that, but what can we do about it? Not all planets are like our Earth. Do you have any solution for that?" asked Kugan with curiosity.
+
+"I don't have a concrete answer for this, but I have some theoretical ideas. That's why I am asking for funding to do my research. With the quantum computers available to the general public, I have submitted a very primitive thesis for my idea, which is nowhere close to the full idea. To conduct full research and prepare a proper thesis, I need support from the official research centers," said Reev.
+
+"What is your thesis about, Reev?" asked Kugan. He seemed very much interested in discussing further. As they were speaking, some people were already filing out of the facility in pairs or groups.
+
+Reev didn't seem to care about the others and started answering his question. "I thought I could try to make the Moon's regolith fertile. If we can do that, it would be a scalable solution to this problem. Also, if we are successful, this idea can be expanded to other planets as well. Then humans would no longer be constrained to a single planet or solar system. All we would need to do is engineer a massive dome or something similar to simulate our atmosphere."
+
+"How are you planning to make the regolith fertile? We can't just put in fertilizer and then — boom — it's fertile the next day," said Kugan.
+
+"I am planning to use bacteria or some micro-organisms to make the regolith fertile. The usual bacteria on Earth won't be able to survive in the Moon's extreme environment, so I would have to find some mutated variant of bacteria to do this."
+
+Then Maia interrupted and started explaining the idea further. She wanted to wrap things up and leave for the day — it was already getting late. If she left these two like this, they would continue their discussion for hours. "So listen to me, Kugan — his plan is to create some bio-engineered bacteria to make the Moon's regolith fertile and then grow plants there. When you think about it, plants and humans co-exist very well. Animal and plant life completes each other. We need oxygen and food to survive, which are byproducts of plants; plants need carbon dioxide to survive, which is a byproduct of animals, including us," said Maia.
+
+Then Reev started saying something again. "There is also another advantage to this — we wouldn't have to wear an oxygen mask everywhere, or set up a mechanical system to maintain enough oxygen in the environment for human survival. Also, instead of transporting food from Earth to other planets, we could engineer some massive domes to protect us from vacuum, radiation, heat, cold, and other factors, and cultivate everything inside those domes. Then plants and humans could co-exist there."
+
+"That's really interesting, Reev — let me know what happens with the research committee," concluded Kugan, seeing that Maia was trying to wrap up the conversation. He moved to his desk. Then after packing up their stuff, all three of them left the facility together.
+
+As they were walking out along the pathway, Reev's face seemed dull. He hadn't asked her out today either, but he said to himself that he would do that after meeting with the research committee — for sure.
+

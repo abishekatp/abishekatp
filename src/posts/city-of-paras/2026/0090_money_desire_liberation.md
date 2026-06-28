@@ -1,0 +1,104 @@
+---
+title: The Money, The Desire and The Liberation
+date: 2026-06-29
+description: A fictional saga set in the year 9925 — stories from The City of Paras.
+---
+
+The day started cloudy; the sky was hissing that it was going to fill the ponds today. The trees were swaying violently. People were walking on the pathway, which was covered by a shelter. Buses were rumbling on the road. At some point the pathway branched into multiple paths. Ridva took the one labeled as The Pod Station.
+
+It started raining heavily; people were just walking inside the canopy. She reached the pod station in a few minutes. There was an emergency flying shuttle touching down smoothly just near the pod station. There was a large atrium around the pod station; the air shuttle landed inside that atrium.
+
+A stretcher detached from the shuttle and there was a patient on it, covered with a glassy pod. One person was standing on the running board attached to the stretcher at the front. Everyone gave way and it moved fast inside the pod station. Ridva scanned her hands and entered the pod station just behind it. She was looking into the emergency pod track while others were getting onto their pods.
+
+The person on the stretcher attached it to one of the emergency pods and it left in a flash. The person who might come there in the next few minutes would have no idea about that event at all. She moved towards a platform, got onto a pod, and selected the central learning center as her destination.
+
+She had reached the center and sat on a bench outside near the pathway. The driving wind had stopped and so had the rain. She couldn't see many people out there. She was scanning the surroundings and looking for someone. It was a bit early for the morning shift, and in another fifteen minutes this pathway would be busy with engineers, scientists, students, and so on.
+
+The surrounding area looked so green. There was a tall building beyond the entrance and there were tall, large trees giving competition to that building. After the heavy rain and wind, leaves were scattered around the campus and water drops dripped from the trees.
+
+She was glancing at the big trees surrounding the learning center. She remembered the time when she went camping in the forest with her husband and daughter. Her eyes were welling up with so many thoughts. She was thinking that if only she could have spent more time with them, she would not have regretted leaving them. But she reminded herself that no amount of time would have been enough for that.
+
+Suddenly she noticed someone. She sprang up and scuttled towards him. "Hey big man, how are you doing?" said Ridva. Adin was stunned into silence. He was not able to speak a word for a few seconds, and then he pulled her out of the sidewalk towards the shade under the big tree. It had been many years since he had seen her. Ridva, Mridaan, and Adin had attended class at the learning center together.
+
+"What are you doing here? Don't you know that the whole government is searching for you guys? What were you thinking, showing up here like this?" blurted out Adin with confusion and fear in his eyes.
+
+"Don't worry, Adin. I am not that famous — not so many people know me. Also, no one knows that I came here."
+
+"How did you come here? By pod? Don't you know that the government can track anyone travelling through pods or any other transport facility?"
+
+"Yeah, I know that. I have taken care of that. There are still ways to hide your identity from the government. You should know that more than anyone else, Adin."
+
+"Yeah, whatever, Ridva. Why did you come here after so long? It's not like you want to meet an old friend and check on his well-being. You won't come here without any reason. I know that much." He was a bit more relaxed now. People were striding through the pathway while they were speaking to each other.
+
+"Don't act like I don't care about you, Adin. And don't act like you know nothing about what I am up to. How long are we going to wait?"
+
+"It's not like we have any other choice, is it?" He looked worried.
+
+"Yes we have a choice, Adin. We need to fight back. Otherwise some other country is going to do that. Not so many of them are happy about us. Our idea is an agitation for them. Some people in those countries are trying to revolt against their government to adopt our ideology," said Ridva.
+
+"Isn't it funny? People who live here are leaving this country because they don't like it, and some folks out there are fighting to get what we have here," said Adin with a smirking laugh.
+
+"Yeah, that's what I am here for. How many talented people are we going to lose? Already a lot of them have left the country looking for better opportunities. Some countries are more than happy to welcome them."
+
+"But you see, Ridva, those people left the country not because there are no ways to express or use their talent. We have all the opportunities to grow their talents and use them to help society. But they need more than that. They are greedy mercenaries driven largely by money and personal gain."
+
+"Isn't that human nature, Adin? How can we blame them? People are driven by their personal interests. We can't expect everyone to be selfless. Most people can only act selflessly to some extent. People think about their own advantages, their future, and the future of the people important to them."
+
+"Yes, that's the real thing, Ridva. But I could never understand their logic. How can capitalism or the free market give them future security? People tend to be overconfident in themselves — they think that if they are allowed to compete on the free market they could do better than most other people. But the irony is that most people think this way."
+
+"But without giving them that chance, how can we decide that? After all, people would like to live by their own free will. People crave the freedom of their choices the most. Isn't that true, Adin?" said Ridva, trying to grill him.
+
+"Your point is valid, Ridva. But should we allow our child to jump into the fire just because they have a speculation that fire won't hurt them? The people who lived before us faced a lot of miseries due to this free market. Even today, in other countries, people are living in this hell of the free market — but some people here don't understand that."
+
+"But some people consider it heaven. We can't just accept our ancestors' thinking as wise. Throughout history, if we have learned one thing, it is to always question our way of life to make it better. We assume that things will get better automatically, but they won't. How can we be so sure that our way of life is the correct one?" Ridva retorted.
+
+"You are overcomplicating this, Ridva. I am not saying our way of life is the only correct way. When we compare with all other countries, our way seems to make people's lives better. When we find something better than this, we will try to adapt to it — and when that happens, even I will fight alongside you. To understand this better, let me share my experience with you. I had recently visited one of the countries that you were talking about. What I experienced there left me in silence for days."
+
+"What are you talking about, Adin?" asked Ridva, eager to understand his perspective.
+
+"I went to Licentia for a diplomatic meeting. I was given a big luxury hotel to stay in. I couldn't even understand a lot of the gadgets around there. People were flying in and out of that hotel in flying shuttles. I came down to look around the city, and what I saw there made me realise how lucky we are here in our country."
+
+Ridva seemed confused. She had come here to convince him to support their group, but it seemed like he was trying to convince her to leave that same group. But she respected Adin enough to listen to him. So she nodded her head and said, "Tell me about it, Adin."
+
+"Just outside that hotel there were children begging for food and money. They didn't even have proper clothing. I saw one of them looking through trash to find something to eat. Is that what we want for our children? I would rather die fighting against it than live a comfortable life just because I have some privilege," said Adin with sorrowful eyes.
+
+"But we don't have to become like them — even after new reforms we could continue our good social welfare programs. That's not what we are fighting against. All we ask is that we also allow individuals to start their own private institutions and act on their own free will."
+
+"Don't jump to conclusions — that's not all I saw, Ridva. There is a lot more to it. Let me share one more event that made my heart ache that day. In the evening I went to the famous market in that city to understand their way of life. The market was a very chaotic one. There were shops of all sizes and colors. It seemed like we could buy anything available in this world. There were all kinds of food on one side and different jewelleries and gadgets on the other side of the street. There were party houses and spiritual places on the same street. It looked so colorful and beautiful on the outside," said Adin. Suddenly Ridva interrupted him.
+
+"Yeah, you see, Adin — isn't that better than what we have here? Here in our country a lot of things are restricted. I can't just go ahead and open a jewelry shop or work on research to create a new gadget on my own. If we like something, we have to find a similar job run by the government and work there. Where is my individual freedom there? It is in a deep grave. You could say that I can go ahead and pursue my interest on my own and the government is providing all the basic needs for almost free — but that's not enough to fulfill all of our dreams. Suppose I want to start my own rocket company and fly to the Moon — how can I do that in our country today? I can't work towards my dreams unless the government prioritizes that work for the common good. Not all my dreams could be achieved without huge capital."
+
+"That is a valid point, Ridva — this is just a trade-off between two ways of life. To understand the consequences of your dream world, where people can follow extreme individualism, listen to what I have to say next. While walking on that street I saw a pleasure house where women and men were welcoming people inside. I could see men and women naked inside that building. There were a lot more than just men and women inside there. One of them followed me, trying to persuade me to indulge with her. While I insisted on not doing so, she tried to convince me: 'Don't worry, you don't have to pay too much — it won't cost you more than a few dinners.' It struck me hard. I was frozen for a few seconds. It's not like I didn't know about these things — I had heard about them from other people and social media — but when I saw it in reality it hit me differently. Do you think it's normal? Do you think she is doing that out of her own pleasure?" said Adin.
+
+"First, it is not just a trade-off, Adin — it is a much bigger issue than that. We are intentionally blindfolding ourselves to avoid seeing it. Secondly, that is people's individual choice, Adin. We can't judge someone just by their job," said Ridva, trying to defend her position. But she didn't seem fully satisfied with her own answer. He could tell just by looking at her that she didn't fully agree with what she was saying. Adin started to reply.
+
+"We try to defend this by saying that it is people's individual choice. But no woman or man wants to sell their body just out of pleasure or individual choice. The reality is that society forces them to do that. Money and poverty push them into such things. Society forces people to make tough and undesired decisions by making money the ultimate key to survival. This is just a glimpse of what I saw there — there were worse things happening out there. People were saying there were even underground markets that would help you get things unavailable in the regular market. I can't even imagine what might happen down in the underground market." He did not seem happy about it. A tear fell from his eye and he tried to flick it away.
+
+"We might not have experienced the miseries of the free market or capitalism ourselves, but our previous generations faced its cruelty in its worst form — that's why they took the tough decision to follow this new way of life," said Adin.
+
+Ridva was silent for a few minutes. She knew that the free market came with its own set of problems. But she had always hoped that it would get better over time. While they were talking, most of the people had already entered the facility. It was already past his shift time, but he had totally forgotten about it due to the shock of meeting Ridva. They moved towards a bench under the tree, cleared the water droplets from it, and sat down. Then Ridva started speaking.
+
+"I understand that, Adin, but that is exactly the problem. People who see the advantages in other countries feel threatened by our way of life. They don't want their people to be drawn to this idea. So one way or another they are planning to destroy our country — and they are fully capable of that, as you and the government know very well. They are much more advanced in technology than us. While we were focusing on improving life standards for everyone, corporations from those countries built advanced technologies. What are we planning to do to tackle those problems?" retorted Ridva.
+
+"That's not the only problem," she continued. "Whatever talent remains in our country is also leaving every year. The reason is very simple: those corporations attract them with luxuries. Not a lot of people could resist them. What are we going to do about that? That's what this liberation army is fighting for. We need to make some adjustments to our way of governance — otherwise there won't be any people or country left to govern."
+
+"We could argue this all day, Ridva. It's time to end this argument. Neither you nor I is going to change our position. So tell me — why are you here?"
+
+"I am here to ask you a favour."
+
+"You are asking me a favour — what can I do? I am just a professor here."
+
+"But the central committee of our country has respect for your words. I want you to meet the people from the liberation army. We have some proposals which we think would help us move in the right direction. At least this way we could catch up to other countries soon and not lose our people to their fishing nets."
+
+"Are you crazy, Ridva? I can't do that. If they come to know that I have links with the liberation army, I would lose whatever reputation I have. Also, there is no way they are going to listen to what you guys say. The committee and the people consider you guys as radicals. Why do you think they will trust you and your ideas?"
+
+"I knew you wouldn't be convinced that easily. I am not asking you to join the liberation army — just lend us your ears. Just one meeting is all I am asking for," said Ridva, and she gave him a small device. It looked like a small chip that could fit in the palm of a child. She said that if he ever changed his mind, he could use the device to contact her.
+
+"Oh, also before I go — I wanted to ask, how is he doing? And did she recover from the trauma I put her through?" said Ridva, asking about Mridaan and Maia.
+
+"It's been some time since I met them — I have been too caught up in my work these days. He is still working on that urban-rural committee. I met Maia a few years back. She moved to this city and is working at the Agro Farm as a research scientist."
+
+"Like mother, like daughter," said Ridva with a slight smile. She seemed happy after hearing about them, and her eyes welled up just thinking about them. "I hope she is happy now. I won't come to meet you again, Adin — please keep the device safe, and I hope to get a callback from you," said Ridva.
+
+After that, both of them went their separate ways. Adin started walking towards the learning center entrance and, realising he was already thirty minutes late, picked up his pace and rushed towards the door. Ridva slowly started walking in the opposite direction, on a path marked towards the pod station. After a few minutes, both of them turned back and looked towards each other — as if they each knew that the other person was going to do the same.
+

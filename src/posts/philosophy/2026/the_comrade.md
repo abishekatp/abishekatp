@@ -1,0 +1,39 @@
+---
+title: The Comrade
+date: 2026-07-02
+description: This is not only for the typical romantic relationship
+---
+
+At some point in our lives, everyone searches for their partner. Some people believe in marriage and some in different forms of relationships. Some people don't need any of these, but that's an exception. We will only focus on the former one today and ignore the latter.
+
+People do this for many reasons: some search for a partner longing for love and affection, some do this to find a person who could view the world as they see it, some do this to fight for their dreams together, some to travel the world together, some do this to have a family and bring up children of their own, some do this just because of social pressure. The reason could be unique and personal for each and every one of us.
+
+But whatever the reason might be, we all have one doubt: Am I ready for it? How do we know we are choosing the right partner? How do we know that we are the right partner to the other person? For me personally, the answer to this question changes each time I think about it. Because my knowledge or worldview changes as I learn and grow.
+
+In many parts of the world, parents consider marrying their children as their duty or responsibility. It is strongly linked with family or social values. People look for financial status, caste, religion, ethnicity, and many other factors, but don't give enough importance to the feelings of the people who are going to spend their life together.
+
+A lot of people think they are ready for this on their own will or because of external pressure, and later find out that it's much more complex than that. Just because we assume that we are ready and perfect, we tend to make both our lives and the lives of others miserable. On top of that, in India, the way we approach genders by alienating one from the other makes this much more complicated.
+
+Like this, there are a million other factors affecting relationships in today's world, such as: social media influence, childhood traumas, unresolved issues in their personal life, imaginary expectations, societal expectations, identity crisis, money, wealth, health, and many other things.
+
+So if there are these many things to consider, then how could we find a correct partner who will be right in all of the above aspects? The answer is that you will never find such a person. I am not saying you might not find them; I am saying you will never find them. Because there will never be a perfect match, people always tend to make mistakes. Each one of us has our own advantages and disadvantages. So what should we look for when we search for a partner?
+
+Should we search for a person who accepts you for who you are? It might seem like a reasonable idea. But in the long term, what is the purpose of this companionship? Also, one might be hurting others without knowing it. So this could not be the answer.
+
+Should we make an agreement about each other's expectations and abide by that for our whole life? This might work out; we will have clear documentation when we want to part ways, but it destroys the purpose of finding a partner. So this is also not the one we are looking for.
+
+Should we find someone who is not only ready to enjoy your happy times, but also ready to suffer with you when you are at your lowest? This is the most romantic thing to say, but how practical is it? Is it okay that one of them is always suffering and the other person is doing something wrong with or without knowing it? Not right — so this is also not the answer.
+
+Should we find someone who views the world as you see it? It is nice to hear, right? When someone sees the world as you see it, there won't be any disagreement between you two to fight for? But how long could this go on? Life changes people in the most unexpected ways; there will be a point when one of them changes their perspective about life, will the other person be ready to change? We are close to the answer, but let me tell you a few stories before coming to a conclusion.
+
+I have seen a couple where one of them is highly hygienic. She always needs another person even for her day-to-day activities. Even when she accepts that what they are doing is not easy for the other person, she is not ready to change herself. This makes their relationship chaotic and mostly ends with conflicts.
+
+Another couple where a woman is forced to work in the kitchen even when she has a Doctor of Philosophy degree. There is no point in a relationship when the partner is not ready to bring out the best version of the other one. In another couple, even though their marriage is not arranged, the husband is addicted to alcohol and not ready to change himself for his partner. Here the partner suffers in silence.
+
+What is the common pattern in all of these cases? One of the people in the relationship is not ready to learn from their mistakes and to try to change themselves.
+
+So instead, we should find someone who is ready to teach you when you are wrong and ready to learn when they are taught to be wrong. It might seem very simple, but it's not that simple. None of us likes it when we are taught that we are wrong. There are a lot of communication skills needed here, but it's also part of the learning.
+
+If someone is mature enough to understand and accept this, then both of them could learn and grow together. When we understand this, each conflict would not end up in fights, but would end up as a better version of ourselves.
+
+Life is new to each and every one of us; we are all beginners to this life and are living it for the first time. So we should understand this and be ready to learn and improve ourselves. Also, we should be ready to be patient and teach the other person to become the best version of themselves. Let’s hope to find a true comrade.

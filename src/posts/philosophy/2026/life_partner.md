@@ -1,0 +1,37 @@
+---
+title: Life Partner
+date: 2026-07-02
+description: this is not only for the typical romantic relationship
+---
+
+At some point in our lives, everyone searches for their partner. It would be either constrained by marriage or just a relationship. Some people don't need one, but that's an exception. We will only focus on the former one and ignore the latter one today.
+
+People do this for many reasons: some search for a partner longing for love and affection, some do this to find a person who could view the world as they see it, some do this to fight for their dreams together, some to travel the world together, some do this to have a family and bring up children of their own, some do this just because of social pressure. We can't put this in a finite list; this list is so personal and unique to everyone.
+
+But whatever the reason might be, we all have one doubt: Am I ready for it? How do we know we are choosing the right partner? How do we know that we are the right partner to the other person? If you had asked me ten or five years ago, I might have told you that I was ready for a relationship but not for marriage, because I was not financially settled at that time. If you ask me, I would laugh at that guy now. This always changes; sometimes we feel ready and other times we are not. To understand this better, let me start with some facts.
+
+In many parts of the world, parents consider marrying their children as their duty or responsibility. Even in today's world, people look for status, caste, religion, ethnicity, and many other factors, but don't always give importance to the people who are going to spend their life together.
+
+A lot of people think they are ready for this on their own will or because of external pressure, and later find out that they are not. Just because we assume that we are ready and perfect, we lose a lot of good people in our lives and also choose the wrong ones sometimes. On top of that, in India, the way we approach genders by alienating one from the other makes this much more complicated.
+
+Like this, there are a million other factors affecting relationships in today's world, such as: social media content, childhood traumas, unresolved issues in their personal life, imaginary expectations, societal expectations, identity crisis, money, wealth, health, and many other things.
+
+So if there are these many things to consider, then how could we find a correct partner who will be right in all of the above aspects? The answer is that you will never find such a person. I am not saying you might not find them; I am saying you will never find them. Because there will never be a perfect match, people always tend to make mistakes. Each one of us has our own advantages and disadvantages. So what should we look for when we search for a partner?
+
+People approach this wrongly; they say to search for a person who accepts you for who you are. It might seem like a good deal. But in the long term, that relationship will be of no use, or one might be hurting others without knowing it. So what should we look for then?
+
+Should we make an agreement about each other's expectations and abide by that for our whole life? This might work out; we will have clear documentation when we want to part ways, but it destroys the purpose of finding a partner. Then what should we look for?
+
+People say you should find someone who is not only ready to enjoy your happy times, but also ready to suffer with you when you are at your lowest. Then is it okay that one of them is always suffering and the other person is doing something wrong with or without knowing it? Not right — this is not the answer.
+
+People say that you should find someone who looks at the world as you see it. It is a good thing; when someone sees the world as you see it, there won't be any disagreement between you two. This might go on for some time, but life changes people in the most unexpected ways; there will be a point when one of them changes their view, and it will kill that relationship.
+
+People set different ages and financial or psychological conditions to be with a partner or to get married. But all of these depend on the person, the place, and many other factors. So instead, search for someone who is ready to teach you when you are wrong and ready to learn when they are wrong. It might seem very simple, but it's not that simple. None of us likes it when we are taught that we are wrong.
+
+For example, I have seen a couple where one of them has a specific set of rules for their hygiene, never agrees to change themselves for others, but always justifies their own actions even when they accept that what they are doing is not easy for the other person. This makes most of their relationship chaotic.
+
+I have seen a couple where a woman is forced to work in the kitchen even when she has a Doctor of Philosophy degree. There is no point in a relationship when the partner is not ready to bring out the best version of the other one.
+
+If someone is mature enough to understand and accept this, then both of them could learn and grow together. When we understand this, each conflict would not end up in fights, but would end up as a better version of ourselves after some negotiations.
+
+Life is new to each and every one of us; we are all beginners to this life, living it for the first time. So we should understand this and be kind towards others. We should be ready to listen and learn from our own mistakes, and ready to be patient and teach the other person about their mistakes.

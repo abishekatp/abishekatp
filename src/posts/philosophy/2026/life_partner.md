@@ -1,7 +1,7 @@
 ---
 title: Life Partner
 date: 2026-07-02
-description: this is not only for the typical romantic relationship
+description: This is not only for the typical romantic relationship
 ---
 
 At some point in our lives, everyone searches for their partner. It would be either constrained by marriage or just a relationship. Some people don't need one, but that's an exception. We will only focus on the former one and ignore the latter one today.

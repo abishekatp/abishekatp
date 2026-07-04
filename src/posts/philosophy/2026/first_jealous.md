@@ -1,6 +1,6 @@
 ---
 title: The First Time I Felt Jealous — A Writing Challenge
-date: 2026-06-20
+date: 2026-07-04
 description: Attention Is All You Need
 ---
 

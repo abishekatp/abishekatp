@@ -1,0 +1,78 @@
+---
+title: Sexual Violence Is More Than Just A Crime
+date: 2026-07-11
+description: What Seems Like Just Another Crime Is A Fundamental Problem Of The Society
+---
+
+Recently in India, a thirteen-year-old girl was locked up in a hotel and sexually assaulted by more than thirty men over a week. This is not something new; it has been happening every year in our country. Every year, some child or woman becomes prey to sexual perpetrators.
+
+We talk about it for some time and move on to the next controversial or viral topic. But it is more than just a crime. It is a fundamental problem with society and people as a whole. This needs serious consideration from every individual and government.
+
+These crimes are almost always committed by men. So it got me thinking, why the hell do we do this? Are we really that cruel and immoral by nature? Or is this a problem of our society as a whole? Will it ever change?
+
+This blog is my personal opinion on this topic based on my limited knowledge and worldview. I am trying to write this with utmost responsibility and care, but if you think my argument is incorrect or ignorant somewhere, feel free to correct me in the comments.
+
+This is not only specific to India. Yes, in India there is a lot of sexual violence happening every year, and the same is true in many other countries. But India in particular makes it harder for women to live safely than many other countries. Because we put a lot of psychological and social pressure on women on top of these crimes.
+
+My first question was: what are the global statistics on this crime? I checked online and asked different AI agents. Those statistics were not very consistent. There are some correlations, but they are not robust enough to be taken as a solid reference. The reasons are as follows:
+
+There are no globally standard and consistent definitions of what is considered rape or sexual harassment. In many parts of the world, victims are suppressed from coming forward, either culturally or because of social and power structures. So a lot of these crimes are not even recorded in any surveys or legal systems.
+
+But one thing is clear: a large fraction of the population is affected by these kinds of crimes. It is very easy for readers to verify this online, so I leave it to them.
+
+My next question was: does it happen only to women? The answer is no. Sexual violence happens to both men (especially children) and women. But women are affected at a relatively much higher rate than men. So we will mainly focus on crimes against women.
+
+Who commits these crimes? More than ninety percent of these crimes are committed by men. Even though victims are both men and women, the perpetrators are almost always men.
+
+So my next question is: why do men commit these crimes most of the time? What is the motivation behind this cruelty? The answer is that there is no single reason.
+
+There are many aspects to this. I will try to explain some of these aspects to understand this problem better. But keep in mind that this in no way justifies the crimes conducted by these perpetrators.
+
+**Researchers say that a lot of men do this for the psychological need of power and control over others.** Even those who do this for revenge are doing it as a way of expressing their power. Some people think these crimes are their entitlement and grab the opportunity to commit them whenever they get one.
+
+Some do this out of impulse and sexual desire, but this acts as a supporting reason rather than a core intention. People who think that sex is their entitlement have fundamental issues understanding morality or individual rights. So this helps them not to feel guilty about the crime.
+
+Because of this mindset, many blame the individual rights of a woman for the crimes against her. They blame her clothes or the places and times she goes out. The media and movies have great responsibility in doing this.
+
+A lot of movies objectify women for commercial reasons. A person who watches these from a young age might be wrongly influenced when there is no proper guidance.
+
+But how do power and control influence these crimes? Humans, or for that matter many other animals, like to have power or control over their surroundings. These are closely related to our survival throughout history. But how does this specifically relate to men?
+
+There could be a few reasons behind this: power would increase the survival capacity of individuals in societies. The world is so unpredictable, so humans like it to be under control. Having some control over it helps not to worry about unpredictable outcomes, which might again affect their survival. Also, power helps them get whatever they want in society without depending on anyone.
+
+Why don't women crave power and control? They do, but throughout history they tried to achieve it in different ways than men. They do this through alliances, social bonding, and finding a powerful mate. This was because, for most of history, women had to bear the consequences of childbearing. They didn't have the physical strength to express their power through physical strength alone.
+
+But it is slowly changing; the world no longer depends on pure physical strength alone. Also, for women, the consequences of childbearing have been reduced tremendously. But some men still have this psychological need for power and control through physical violence.
+
+But if all they need is power and control, then there are a lot of ways to do that. Why do they choose sexual violence for this? To understand this better, we need to explore the biological, psychological, and social factors.
+
+Some may say men are stronger than women, but it is just an advantage to commit these crimes rather than a reason. Just as men occupy a higher position of power in the social hierarchy, which gives them an advantage in committing these crimes more easily.
+
+Researchers say that the men who choose these crimes might be linked to their high testosterone levels and how they are evolutionarily hardwired to have sex. But this could not be the sole reason.
+
+There are a lot of men with higher testosterone who do not commit these crimes and **do not justify them in any way.**
+
+There might be other psychological factors like **childhood trauma, low empathy toward others, or substance misuse like alcohol or drugs**. One thing to note is that childhood trauma often teaches people not to hurt others.
+
+Among all these, **social factors play a very critical role**. Women are more associated with and controlled by their sexual attributes than men in our society. They are suppressed from expressing their sexual desires or reporting sexual crimes against them. Also, when laws and punishments are not strong enough, people become less accountable.
+
+**For a long time now, we have been objectifying women as sexual objects who can be traded, won over, and used as targets to attack people related to them.**
+
+Women's sexuality is used as a commodity in a lot of societies, with or without their willingness and consent. Specifically in India, even in our schools, we tell boys and girls not to talk to each other. We alienate the two genders from a young age instead of teaching them to coexist. These social factors are one of the main reasons why India fares worse in these crimes than many other countries.
+
+So these crimes are a combination of many biological, psychological, and social factors. So this is more complicated than many other crimes. Then how can we prevent it from happening? We already know these answers, but we always think just one of them could solve the problem entirely, and it would not.
+
+The first thing we could do is teach our children, from a very young age, to respect individual rights and consent, and to teach them about morality. This will save some people, but there will always be people who might not agree with these ideas.
+
+Then we should make stricter laws and hold every perpetrator accountable for their crimes. Isn't this very simple? But why can't we implement this simple solution and put an end to all these miseries? This will work to some extent, but it comes with a problem of its own.
+
+A lot of these crimes are committed by the people who are responsible for maintaining law and order, either directly or indirectly. It is like entrusting the sheep to the wolf.
+
+In other cases, suppose we bring the death sentence for every perpetrator of this kind of crime. How could we make sure that won't be misused? Or how do we make sure we are punishing the actual perpetrators? So this legal process might take some time. During this time, many perpetrators might escape their punishments.
+
+So better than all of this is prevention. We could use technology to prevent these crimes at some level. We should support and teach every individual to fight against these crimes for themselves and, more importantly, for others. The world will not change itself. We need to deliberately make it better for everyone.
+
+These changes won't happen overnight, and they should start with each and every individual and family. First, we should learn to respect women and every individual as well. We should make sure that biological differences don't decide who we are. If that were the case, we could have lived in trees.
+
+So, to fight a crime of this complexity, there won't be a single solution. We need to **create strict laws and follow them, make people accountable for their actions, and use technology and government resources to prevent these crimes before they happen. Above all, we should teach our children how to live a morally good life with kindness.** Build a safe and better world for everyone.
+

@@ -1,5 +1,6 @@
 node_modules
 
+/drafts
 # Output
 .output
 .vercel

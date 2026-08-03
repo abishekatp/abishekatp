@@ -1,0 +1,37 @@
+---
+title: One Person You Must Not Avoid Talking To
+date: 2026-08-03
+description: In a world full of distractions, distract yourself from distractions
+---
+
+Last weekend I went on vacation to Yercaud, a beautiful hill station located near Salem in the state of Tamil Nadu. It felt different than my usual trips. This wasn't some new feeling though; I had similar feelings each time I traveled alone somewhere.
+
+I was wondering what could be the reason behind this feeling. The feeling of knowing myself better, the feeling of trusting myself more, the feeling of wanting to be kind to myself and others. Among all these feelings, one particular thing astonished me the most.
+
+The feeling of becoming close to myself. In a way, each time, I became more of a friend to myself. I don't know whether there is something called a soul or not. But if there is one, then it felt like I became closer to mine.
+
+You might be wondering, can we really become close to ourselves? What do I mean by that? Hear me out for a few minutes. Yes, it is really there. I am telling you because I felt it myself.
+
+Similar to how we become close to some people, we can also become close to ourselves. People talk about soul mates a lot these days. If you believe in that, then it's the feeling of becoming your own soul mate.
+
+When we become close to ourselves, we become more aware of ourselves. We start to trust ourselves and our judgments. We love ourselves for who we really are. We will forgive ourselves for our mistakes. We will try to correct our mistakes, because there is no one to judge us when we're being honest with ourselves.
+
+Wait, this is not some magic or spiritual awakening that only happens when you travel alone on an expensive trip. Also, it doesn't happen overnight or just by travelling solo.
+
+I just happened to experience this while I was traveling alone, because in our nine-to-five routine there are a lot of things that occupy our minds. We distract ourselves with family, relationships, entertainment, hobbies, goals, and a lot of other things.
+
+When we get caught up in our daily lives, we forget one of the most important things, that is talking to ourselves. By talking, I mean some honest reflections about your life, hobbies, relationships, work, goals, and any other things. These are things that we usually avoid thinking about because life is easy without focusing on them.
+
+So the key is not travelling, but talking to yourself. While travelling solo, specifically to hill stations with bad networks and good views, it happened to me easily.
+
+There are not so many people to distract us there. We could sit on a random seat at a mountain peak, a vacant chair on an empty beach, or a silent cafe in an unknown city and talk to ourselves for hours without anyone disturbing us.
+
+For a lot of us, it is hard to talk to some stranger, but the less we talk with ourselves, the stranger we become to ourselves. The sooner we realise this, the better our mental peace would be.
+
+Also, if you don't do this regularly, it might burst out on a specific day when it is triggered by some external pressure. So instead, you could handle them one by one at your comfortable pace.
+
+So in a world full of distractions, it is not only easy for us to become strangers to our loved ones, but also to ourselves. So we must put aside these distractions and have honest conversations with ourselves and our loved ones. If something called a soul is there, this talking will bring them closer.
+
+But if you want to become close to someone, first you have to be close to yourself. If you want to love someone, then first you have to love yourself. This will only happen if you spend time talking with yourself. Each week, or at least each month, we need to go offline and spend some alone time.
+
+Initially it might feel difficult, but once you start experiencing this, you will automatically crave this alone time. So try spending some time alone intentionally; it heals you the same way that talking with someone you love does. Both of these things help you live a better, happier life.

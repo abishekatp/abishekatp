@@ -1,6 +1,8 @@
-# **The Scale To Measure Closeness Of Two People**
-
-### **The Road To Everlasting Relationships**
+---
+title: The Scale To Measure Closeness Of Two People
+date: 2026-08-22
+description: The Road To Everlasting Relationships
+---
 
 Recently something got into my mind. Is there a way to measure how close we are to someone? At first glance it seems to be a very simple question. But as you start to dig into it, it will uncover a lot of surprises.
 

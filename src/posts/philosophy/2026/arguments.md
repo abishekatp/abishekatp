@@ -1,6 +1,8 @@
-# **Arguments Are Not Actually Bad, But The Way You Approach It Could Be**
-
-### **How did I learn to use arguments as a way to grow?**
+---
+title: Arguments Are Not Actually Bad, But The Way You Approach It Could Be
+date: 2026-08-30
+description: How did I learn to use arguments as a way to grow?
+---
 
 Have you ever argued with someone just to prove that you're right? But deep inside you knew that you were wrong. If you are someone who will stand your ground blindly, then this blog is for you.
 

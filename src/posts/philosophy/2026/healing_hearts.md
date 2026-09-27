@@ -1,5 +1,5 @@
 ---
-title: The Hell Is Nothing But The Heaven Is What He Deserves
+title: Hell Is Nothing But Heaven Is What He Hopes For
 date: 2026-09-27
 description: A Short Story Of Healing Hearts
 ---
@@ -54,7 +54,7 @@ A little girl interrupted while they were talking. She tugged at her fingers, as
 
 "No, not at all. I would have actually wanted the opposite of that."
 
-He nodded yes and said, "How can I put this? Hmm, listen to this. I would take the risk of entering that hell a thousand times for you. But I would cross that hell all those thousand times for myself."
+He nodded yes and said, "I would take the risk of entering that hell a thousand times for you. But I would want to cross that hell all those thousand times for myself."
 
 "You talk all philosophical, but no good comes out of it," said she, while giggling at him.
 

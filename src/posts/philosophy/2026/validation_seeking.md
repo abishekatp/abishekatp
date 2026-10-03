@@ -1,7 +1,7 @@
 ---
 title: Don’t Be A Validation Seeker
 date: 2026-10-03
-description: Without This Realisation, It Would Make Your Life Miserable
+description: Without The Realisation, It Would Make Your Life Miserable
 ---
 
 Seeking validation from others- have you ever thought about this? It destroys our lives in ways that we can’t even imagine if we don’t pay enough attention to it.

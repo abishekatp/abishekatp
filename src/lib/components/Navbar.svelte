@@ -6,9 +6,16 @@
         { href: `${base}/`, label: "Home" },
         { href: `${base}/about`, label: "About" },
         { href: `${base}/contact`, label: "Contact" },
+        { href: `${base}/cards/`, label: "Cards" },
     ];
 
     let isMenuOpen = false;
+
+    function isActive(href: string): boolean {
+        return href === `${base}/cards/`
+            ? $page.url.pathname.replace(/\/$/, '') === href.replace(/\/$/, '')
+            : $page.url.pathname === href;
+    }
 </script>
 
 <nav
@@ -30,7 +37,7 @@
                         <a
                             href={link.href}
                             class="px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200
-              {$page.url.pathname === link.href
+              {isActive(link.href)
                                 ? 'text-accent'
                                 : 'text-slate-300 hover:text-white'}"
                         >
@@ -73,7 +80,7 @@
                     <a
                         href={link.href}
                         class="block px-3 py-2 rounded-md text-base font-medium
-            {$page.url.pathname === link.href
+            {isActive(link.href)
                             ? 'text-accent bg-white/5'
                             : 'text-slate-300 hover:text-white hover:bg-white/10'}"
                         on:click={() => (isMenuOpen = false)}

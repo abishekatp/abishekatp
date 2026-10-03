@@ -28,7 +28,7 @@ const config = {
 			strict: true
 		}),
 		paths: {
-			base: process.env.BASE_PATH || '/abishekatp'
+			base: process.env.BASE_PATH ?? '/abishekatp'
 		}
 	}
 };

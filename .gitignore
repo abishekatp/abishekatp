@@ -8,6 +8,8 @@ node_modules
 .wrangler
 /.svelte-kit
 /build
+/test-results
+/playwright-report
 # /docs is used for GitHub Pages deployment
 
 # OS

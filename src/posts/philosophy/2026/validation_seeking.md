@@ -1,5 +1,9 @@
-How To Come Out Of Validation Seeking?  
-Without Enough Attention, It Would Make Your Life Miserable
+---
+title: Don’t Be A Validation Seeker
+date: 2026-10-03
+description: Without This Realisation, It Would Make Your Life Miserable
+---
+
 
 Seeking validation from others- have you ever thought about this? It destroys our lives in ways that we can’t even imagine. It can affect our lives in unexpected ways if we don’t pay enough attention to it.
 

@@ -73,7 +73,7 @@ export function layoutCards(document: CardDocument, measure: MeasureText, templa
     }
     newCard('cover');
     const titleLines = wrapRuns([{ text: document.title, style: 'title' }], width, measure);
-    const titleHeight = 106;
+    const titleHeight = Math.ceil(template.fonts.title.size * 106 / 76);
     cursor = titleLines.length <= 7 ? Math.max(template.top, (template.bottom - titleLines.length * titleHeight) / 2) : template.top;
     place(titleLines, titleHeight, 0, 'cover');
     const meaningful = document.blocks.filter((block) => block.kind !== 'rule' || block.runs.length);
@@ -88,7 +88,7 @@ export function layoutCards(document: CardDocument, measure: MeasureText, templa
         const runs = block.kind === 'heading' ? block.runs.map((run) => ({ ...run, style: 'heading' as const })) : block.runs;
         const withPrefix: InlineRun[] = [...(block.prefix ? [{ text: block.prefix, style: 'body' as const }] : []), ...runs];
         const lines = wrapRuns(withPrefix, width - indent, measure);
-        const lineHeight = block.kind === 'heading' ? 70 : template.lineHeight;
+        const lineHeight = block.kind === 'heading' ? Math.ceil(template.fonts.heading.size * 70 / 48) : template.lineHeight;
         const height = lines.length * lineHeight;
         const headingReserve = block.kind === 'heading' && document.blocks[index + 1] ? template.gap + template.lineHeight * 2 : 0;
         if (current.operations.length && cursor + height + headingReserve > template.bottom && height + headingReserve <= template.bottom - template.top) newCard('content');

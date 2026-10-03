@@ -25,9 +25,13 @@ it is never uploaded, saved to browser storage, or read from this site's posts.
 
 The first template is **Editorial**, with a dark graphite background, white text,
 a soft mint accent, and Source Sans 3 typography. Exported slides have no printed
-page numbers or footer decoration; slide navigation stays in the workspace. Fonts are
-bundled locally. Templates, parsing, measured pagination, rendering, and export
+page numbers or footer decoration; slide navigation stays in the workspace. Fonts
+are bundled locally. Templates, parsing, measured pagination, rendering, and export
 live separately in `src/lib/cards` so more templates can be added later.
+
+Text and background colors can be selected in Appearance, along with a 32–64 px
+body font size. Headings, titles, code, and spacing scale proportionally. Regenerate
+after changing these settings; the preview and ZIP use the same generated settings.
 
 Supported content includes headings, paragraphs, emphasis, links, nested lists,
 quotes, inline code, fenced code, and optional YAML title frontmatter. Full text

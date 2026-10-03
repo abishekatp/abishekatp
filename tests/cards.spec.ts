@@ -5,6 +5,31 @@ import { PNG } from 'pngjs';
 
 const markdown = '# A quieter kind of attention\n\n' + ('Small moments teach us to pay attention. **Keep looking.** *Stay curious.*\n\n').repeat(15) + '\n## A final thought\n\n3. First idea\n4. Another idea\n\n> Make room for wonder.\n\n```ts\nconst thought = "keep going";\n```';
 
+test('workspace rows follow input, settings, and preview order', async ({ page }, testInfo) => {
+    await page.goto('cards/');
+    await expect(page.getByLabel('Markdown file')).toBeEnabled();
+    for (const width of [1440, 390]) {
+        await page.setViewportSize({ width, height: 900 });
+        const input = (await page.locator('.input-row').boundingBox())!;
+        const upload = (await page.locator('.upload-zone').boundingBox())!;
+        const text = (await page.locator('#markdown-source').boundingBox())!;
+        const title = (await page.locator('.title-row').boundingBox())!;
+        const appearance = (await page.locator('.appearance-controls').boundingBox())!;
+        const actions = (await page.locator('.editor-footer').boundingBox())!;
+        const preview = (await page.locator('.preview-section').boundingBox())!;
+        expect(title.y).toBeGreaterThanOrEqual(input.y + input.height);
+        expect(appearance.y).toBeGreaterThanOrEqual(title.y + title.height);
+        expect(actions.y).toBeGreaterThanOrEqual(appearance.y + appearance.height);
+        expect(preview.y).toBeGreaterThanOrEqual(actions.y + actions.height);
+        if (width > 767) {
+            expect(text.x).toBeGreaterThanOrEqual(upload.x + upload.width);
+            expect(Math.abs(text.y - upload.y)).toBeLessThan(4);
+        } else expect(text.y).toBeGreaterThanOrEqual(upload.y + upload.height);
+        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+        await page.screenshot({ path: testInfo.outputPath(`vertical-${width}.png`), fullPage: true });
+    }
+});
+
 test('uploads, paginates, edits and exports matching PNG cards without uploading content', async ({ page }, testInfo) => {
     const posted: string[] = [];
     page.on('request', (request) => { if (request.method() === 'POST') posted.push(request.url()); });
@@ -34,11 +59,23 @@ test('uploads, paginates, edits and exports matching PNG cards without uploading
     });
     expect(plainDarkFooter).toBe(true);
     await page.screenshot({ path: testInfo.outputPath('desktop.png'), fullPage: true });
+    await page.getByLabel('Text color', { exact: true }).fill('#ffeecc');
+    await page.getByLabel('Background', { exact: true }).fill('#112233');
+    await page.getByLabel('Font size', { exact: true }).fill('52');
+    await expect(page.getByRole('button', { name: 'Download ZIP' })).toBeDisabled();
     await page.getByLabel('Title override').fill('Updated title');
     await expect(page.getByRole('button', { name: 'Download ZIP' })).toBeDisabled();
     await page.getByRole('button', { name: 'Regenerate' }).click();
     await expect(page.getByRole('status')).toContainText('cards ready');
     const updatedCount = Number((await page.locator('.counter').innerText()).split('/')[1].trim());
+    expect(updatedCount).toBeGreaterThan(count);
+    const customAppearance = await page.locator('.paper canvas').evaluate((canvas: HTMLCanvasElement) => {
+        const context = canvas.getContext('2d')!;
+        return { background: Array.from(context.getImageData(0, 0, 1, 1).data), ink: context.fillStyle, font: context.font };
+    });
+    expect(customAppearance.background).toEqual([17, 34, 51, 255]);
+    expect(customAppearance.ink).toBe('#ffeecc');
+    expect(customAppearance.font).toContain('99px');
     const preview = await page.locator('.paper canvas').evaluate((canvas: HTMLCanvasElement) => canvas.toDataURL('image/png').split(',')[1]);
     const downloaded = page.waitForEvent('download');
     await page.getByRole('button', { name: 'Download ZIP' }).click();
@@ -79,6 +116,9 @@ test('mobile navigation, invalid files, warnings and reset', async ({ page }, te
     expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
     await page.screenshot({ path: testInfo.outputPath('mobile.png'), fullPage: true });
     await page.getByRole('button', { name: 'Reset', exact: true }).click();
+    await expect(page.getByLabel('Text color', { exact: true })).toHaveValue('#ffffff');
+    await expect(page.getByLabel('Background', { exact: true })).toHaveValue('#272a2e');
+    await expect(page.getByLabel('Font size', { exact: true })).toHaveValue('40');
     await expect(page.getByLabel('Markdown', { exact: true })).toHaveValue('');
     await expect(page.getByRole('button', { name: 'Download ZIP' })).toBeDisabled();
     await expect(page.locator('.warnings')).toHaveCount(0);

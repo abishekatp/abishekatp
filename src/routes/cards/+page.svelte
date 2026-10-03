@@ -7,6 +7,7 @@
     import { canvasMeasure } from '$lib/cards/render';
     import { exportCards, saveZip, nextFrame } from '$lib/cards/export';
     import CardPreview from '$lib/cards/components/CardPreview.svelte';
+    import { editorial, customizeTemplate } from '$lib/cards/templates';
     import type { CardLayout } from '$lib/cards/types';
 
     let source = '';
@@ -25,10 +26,17 @@
     let dragging = false;
     let request = 0;
     let hydrated = false;
+    let textColor = editorial.ink;
+    let backgroundColor = editorial.background;
+    let fontSize: number | undefined = editorial.fonts.body.size;
+    let generatedTemplate = editorial;
+    let generatedAppearance = '';
     let fileInput: HTMLInputElement;
     const example = '# Small moments, lasting thoughts\n\nSome ideas arrive quietly. A conversation, a walk, a line in a book: each leaves something behind.\n\n## Make room for attention\n\nThere is value in slowing down long enough to notice what stays with us.\n\n- Notice the ordinary.\n- Keep a little space for curiosity.\n- Write down what matters.\n\n> Not every thought needs an answer. Some need time.';
-    $: dirty = source !== generatedSource || title !== generatedTitle;
+    $: appearance = JSON.stringify([textColor, backgroundColor, fontSize]);
+    $: dirty = source !== generatedSource || title !== generatedTitle || appearance !== generatedAppearance;
     $: preview = cards.length ? cards : sample;
+    $: previewTemplate = cards.length ? generatedTemplate : editorial;
 
     function cancel(): void {
         request++;
@@ -51,23 +59,30 @@
         const token = ++request;
         const inputSource = source;
         const inputTitle = title;
+        const inputAppearance = appearance;
+        const inputTextColor = textColor;
+        const inputBackgroundColor = backgroundColor;
+        const inputFontSize = fontSize;
         busy = true;
         error = '';
         status = 'Preparing cards...';
         try {
             await nextFrame();
+            const template = customizeTemplate(inputTextColor, inputBackgroundColor, inputFontSize ?? NaN);
             const parsed = parseMarkdown(inputSource, filename || 'Untitled.md', inputTitle);
             await loadCardFonts();
             if (token !== request) return;
             const context = document.createElement('canvas').getContext('2d');
             if (!context) throw new Error('Canvas is not available in this browser.');
-            const result = layoutCards(parsed, canvasMeasure(context));
+            const result = layoutCards(parsed, canvasMeasure(context, template), template);
             if (token !== request) return;
             cards = result;
             warnings = parsed.warnings;
             documentTitle = parsed.title;
             generatedSource = inputSource;
             generatedTitle = inputTitle;
+            generatedTemplate = template;
+            generatedAppearance = inputAppearance;
             selected = 0;
             status = `${cards.length} cards ready.`;
         } catch (cause) {
@@ -102,6 +117,8 @@
         source = ''; title = ''; filename = ''; cards = []; warnings = [];
         generatedSource = ''; generatedTitle = ''; documentTitle = ''; selected = 0;
         status = ''; error = '';
+        textColor = editorial.ink; backgroundColor = editorial.background; fontSize = editorial.fonts.body.size;
+        generatedTemplate = editorial; generatedAppearance = '';
         if (fileInput) fileInput.value = '';
     }
 
@@ -113,7 +130,7 @@
         status = `Exporting 0 of ${cards.length}...`;
         const assertActive = () => { if (token !== request) throw new Error('Cancelled.'); };
         try {
-            const blob = await exportCards(cards, (completed) => { if (token === request) status = `Exporting ${completed} of ${cards.length}...`; }, assertActive);
+            const blob = await exportCards(cards, (completed) => { if (token === request) status = `Exporting ${completed} of ${cards.length}...`; }, assertActive, generatedTemplate);
             assertActive();
             saveZip(blob, documentTitle);
             status = `${cards.length} PNGs exported.`;
@@ -144,35 +161,51 @@
     <header class="workspace-header">
         <div><p class="eyebrow">THE STUDIO</p><h1>Cards</h1></div>
         <div class="header-actions">
-            <button class="icon-button" on:click={reset} disabled={busy || (!source && !error)} title="Reset" aria-label="Reset"><RotateCcw size={19} /></button>
+            <button class="icon-button" on:click={reset} disabled={busy || !hydrated} title="Reset" aria-label="Reset"><RotateCcw size={19} /></button>
             <button class="primary" on:click={download} disabled={!cards.length || dirty || busy}><Download size={18} /> Download ZIP</button>
         </div>
     </header>
 
     <div class="workspace-grid">
-        <aside class="editor">
+        <section class="editor" aria-label="Document input">
             <div class="section-heading"><h2>Document</h2><button class="text-button" on:click={useExample} disabled={busy}>Load example</button></div>
+            <div class="input-row">
+            <div class="upload-input">
             <input class="file-input" bind:this={fileInput} type="file" accept=".md,.markdown,text/markdown" aria-label="Markdown file" disabled={busy || !hydrated} on:change={(event) => { void loadFile(event.currentTarget.files?.[0]); event.currentTarget.value = ''; }} />
             <button class:dragging class="upload-zone" disabled={busy || !hydrated} on:click={() => fileInput.click()} on:dragover={(event) => { event.preventDefault(); dragging = true; }} on:dragleave={() => dragging = false} on:drop={drop}>
                 {#if filename}<FileText size={25} /><span class="file-name">{filename}</span>{:else}<Upload size={25} /><span>Choose Markdown</span>{/if}
                 <span class="upload-meta">.md / .markdown · 1 MiB max</span>
             </button>
-            <label for="card-title">Title override</label>
-            <input id="card-title" bind:value={title} autocomplete="off" disabled={busy || !hydrated} placeholder={documentTitle || 'From your document'} />
+            </div>
+            <div class="text-input">
             <div class="source-label"><label for="markdown-source">Markdown</label><span>{new TextEncoder().encode(source).length.toLocaleString()} / {MAX_INPUT_BYTES.toLocaleString()} bytes</span></div>
             <textarea id="markdown-source" bind:value={source} autocomplete="off" disabled={busy || !hydrated} spellcheck="false"></textarea>
+            </div>
+            </div>
+            <div class="title-row">
+                <label for="card-title">Title override</label>
+                <input id="card-title" bind:value={title} autocomplete="off" disabled={busy || !hydrated} placeholder={documentTitle || 'From your document'} />
+            </div>
+            <fieldset class="appearance-controls" disabled={busy || !hydrated}>
+                <legend>Appearance</legend>
+                <div class="appearance-grid">
+                    <div class="color-control"><label for="text-color">Text color</label><input id="text-color" type="color" bind:value={textColor} title="Text color" /></div>
+                    <div class="color-control"><label for="background-color">Background</label><input id="background-color" type="color" bind:value={backgroundColor} title="Background color" /></div>
+                    <div class="size-control"><label for="font-size">Font size</label><div><input id="font-size" type="number" min="32" max="64" step="1" bind:value={fontSize} /><span>px</span></div></div>
+                </div>
+            </fieldset>
             <div class="editor-footer">
                 <span>{cards.length && dirty ? 'Unapplied changes' : filename ? 'Local document' : 'No file selected'}</span>
                 <button class="generate" on:click={generate} disabled={busy || !source.trim()}><Sparkles size={17} />{cards.length ? 'Regenerate' : 'Generate'}</button>
             </div>
             {#if warnings.length}<ul class="warnings">{#each warnings as warning}<li><AlertCircle size={15} /><span>{warning}</span></li>{/each}</ul>{/if}
-        </aside>
+        </section>
 
         <section class="preview-section" aria-label="Card preview">
-            <div class="section-heading"><h2>{cards.length ? 'Preview' : 'Example'}</h2><span class="template-label">Editorial <span class="swatch"></span></span></div>
+            <div class="section-heading"><h2>{cards.length ? 'Preview' : 'Example'}</h2><span class="template-label">Editorial <span class="swatch" style:background={previewTemplate.background}></span></span></div>
             <div class="preview-stage">
                 <div class="paper">
-                    {#if preview[selected]}<CardPreview card={preview[selected]} index={selected} total={preview.length} />{:else}<div class="empty-paper"><span>Cards</span></div>{/if}
+                    {#if preview[selected]}<CardPreview card={preview[selected]} index={selected} total={preview.length} template={previewTemplate} />{:else}<div class="empty-paper"><span>Cards</span></div>{/if}
                 </div>
             </div>
             <div class="preview-toolbar">
@@ -212,8 +245,14 @@
     .icon-button { width: 36px; height: 36px; flex-shrink: 0; }
     .icon-button:hover:not(:disabled) { background: #e4ece8; }
     .text-button { color: var(--teal); font-size: 13px; padding: 5px 0; }
-    .workspace-grid { display: grid; grid-template-columns: minmax(0, 380px) minmax(0, 1fr); }
-    .editor { border-right: 1px solid var(--line); padding: 24px; min-width: 0; }
+    .workspace-grid { display: grid; grid-template-columns: minmax(0, 1fr); }
+    .editor { border-bottom: 1px solid var(--line); padding: 24px 32px; min-width: 0; }
+    .input-row { display: grid; grid-template-columns: minmax(0, 280px) minmax(0, 1fr); gap: 24px; align-items: stretch; }
+    .upload-input, .text-input { min-width: 0; }
+    .upload-input { padding-top: 26px; }
+    .upload-input .upload-zone { height: 220px; margin-bottom: 0; }
+    .title-row { margin-top: 20px; }
+    .title-row input { margin-bottom: 0; }
     .section-heading { justify-content: space-between; margin-bottom: 18px; min-height: 28px; }
     .file-input { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
     .upload-zone { display: flex; flex-direction: column; width: 100%; min-height: 138px; border: 1px dashed #adbfba; background: #edf4f1; color: var(--teal); margin-bottom: 24px; padding: 20px 12px; }
@@ -225,9 +264,18 @@
     input:not(.file-input) { height: 44px; margin-bottom: 20px; }
     .source-label { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; }
     .source-label span { font-size: 10px; color: var(--muted); white-space: nowrap; }
-    textarea { height: 290px; min-height: 160px; resize: vertical; font: 12px/1.7 ui-monospace, monospace; }
+    textarea { display: block; height: 220px; min-height: 160px; resize: vertical; font: 12px/1.7 ui-monospace, monospace; }
     .editor-footer { justify-content: space-between; margin-top: 14px; }
     .editor-footer > span { font-size: 12px; color: var(--muted); }
+    .appearance-controls { margin-top: 18px; padding: 12px 0 0; border: 0; border-top: 1px solid var(--line); min-width: 0; }
+    .appearance-controls legend { padding-right: 8px; font-size: 13px; font-weight: 600; }
+    .appearance-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 140px)); gap: 24px; }
+    .appearance-grid label { font-size: 12px; }
+    .appearance-grid input { margin: 0; height: 38px; }
+    .appearance-grid input[type="color"] { padding: 4px; width: 44px; cursor: pointer; }
+    .size-control > div { display: flex; align-items: center; gap: 6px; }
+    .size-control input { min-width: 0; padding: 6px; }
+    .size-control span { font-size: 12px; color: var(--muted); }
     .warnings { list-style: none; padding: 16px 0 0; margin: 16px 0 0; border-top: 1px solid var(--line); font-size: 12px; color: #785716; }
     .warnings li { display: flex; align-items: flex-start; gap: 8px; margin-bottom: 10px; }
     .warnings :global(svg) { flex-shrink: 0; margin-top: 2px; }
@@ -258,7 +306,11 @@
         .cards-workspace { margin: 0; }
         .workspace-header { padding: 20px 16px; }
         .workspace-grid { grid-template-columns: minmax(0, 1fr); }
-        .editor { border-right: 0; border-bottom: 1px solid var(--line); padding: 20px 16px; }
+        .editor { padding: 20px 16px; }
+        .input-row { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+        .upload-input { padding-top: 0; }
+        .upload-input .upload-zone { height: auto; min-height: 138px; }
+        .appearance-grid { grid-template-columns: 1fr 1fr 1.1fr; gap: 12px; }
         textarea { height: 190px; }
         .preview-section { padding: 20px 16px; }
         .preview-stage { padding: 16px; }

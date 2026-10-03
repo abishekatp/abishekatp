@@ -5,6 +5,53 @@ import { PNG } from 'pngjs';
 
 const markdown = '# A quieter kind of attention\n\n' + ('Small moments teach us to pay attention. **Keep looking.** *Stay curious.*\n\n').repeat(15) + '\n## A final thought\n\n3. First idea\n4. Another idea\n\n> Make room for wonder.\n\n```ts\nconst thought = "keep going";\n```';
 
+function exifCaptureTime(png: Uint8Array): number {
+    const view = new DataView(png.buffer, png.byteOffset, png.byteLength);
+    let chunk = 8;
+    while (chunk < png.length) {
+        const length = view.getUint32(chunk);
+        const type = new TextDecoder().decode(png.subarray(chunk + 4, chunk + 8));
+        if (type === 'eXIf') {
+            const tiff = chunk + 8;
+            const ifd = tiff + view.getUint32(tiff + 4, true);
+            const count = view.getUint16(ifd, true);
+            for (let index = 0; index < count; index++) {
+                const entry = ifd + 2 + index * 12;
+                if (view.getUint16(entry, true) !== 0x8769) continue;
+                const exifIfd = tiff + view.getUint32(entry + 8, true);
+                const exifCount = view.getUint16(exifIfd, true);
+                for (let exifIndex = 0; exifIndex < exifCount; exifIndex++) {
+                    const exifEntry = exifIfd + 2 + exifIndex * 12;
+                    if (view.getUint16(exifEntry, true) !== 0x9003) continue;
+                    const valueOffset = tiff + view.getUint32(exifEntry + 8, true);
+                    const date = new TextDecoder().decode(png.subarray(valueOffset, valueOffset + 19));
+                    const [day, time] = date.split(' ');
+                    const [year, month, dateOfMonth] = day.split(':').map(Number);
+                    const [hour, minute, second] = time.split(':').map(Number);
+                    return Date.UTC(year, month - 1, dateOfMonth, hour, minute, second);
+                }
+            }
+        }
+        chunk += 12 + length;
+    }
+    throw new Error('PNG does not have EXIF DateTimeOriginal metadata.');
+}
+
+function zipEntryTimes(zipBytes: Uint8Array): number[] {
+    const view = new DataView(zipBytes.buffer, zipBytes.byteOffset, zipBytes.byteLength);
+    const times: number[] = [];
+    let offset = 0;
+    while (view.getUint32(offset, true) === 0x04034b50) {
+        const time = view.getUint16(offset + 10, true);
+        const date = view.getUint16(offset + 12, true);
+        times.push(Date.UTC(1980 + ((date >> 9) & 0x7f), (date >> 5) & 0x0f, date & 0x1f, (time >> 11) & 0x1f, (time >> 5) & 0x3f, (time & 0x1f) * 2));
+        const filenameLength = view.getUint16(offset + 26, true);
+        const extraLength = view.getUint16(offset + 28, true);
+        offset += 30 + filenameLength + extraLength + view.getUint32(offset + 18, true);
+    }
+    return times;
+}
+
 test('workspace rows follow input, settings, and preview order', async ({ page }, testInfo) => {
     await page.goto('cards/');
     await expect(page.getByLabel('Markdown file')).toBeEnabled();
@@ -50,14 +97,21 @@ test('uploads, paginates, edits and exports matching PNG cards without uploading
         return bright;
     });
     expect(nonblank).toBeGreaterThan(1000);
-    const plainDarkFooter = await page.locator('.paper canvas').evaluate((canvas: HTMLCanvasElement) => {
+    const numberedFooter = await page.locator('.paper canvas').evaluate((canvas: HTMLCanvasElement) => {
         const pixels = canvas.getContext('2d')!.getImageData(0, 1200, canvas.width, 150).data;
+        let pageNumberInk = 0;
         for (let index = 0; index < pixels.length; index += 4) {
-            if (pixels[index] !== 39 || pixels[index + 1] !== 42 || pixels[index + 2] !== 46 || pixels[index + 3] !== 255) return false;
+            const pixel = index / 4;
+            const x = pixel % canvas.width;
+            const y = Math.floor(pixel / canvas.width) + 1200;
+            const isBackground = pixels[index] === 39 && pixels[index + 1] === 42 && pixels[index + 2] === 46 && pixels[index + 3] === 255;
+            if (x < 900 || y < 1260) {
+                if (!isBackground) return false;
+            } else if (pixels[index] > 120 && pixels[index] < 210 && pixels[index + 1] > 120 && pixels[index + 1] < 220 && pixels[index + 2] > 120 && pixels[index + 2] < 230) pageNumberInk++;
         }
-        return true;
+        return pageNumberInk > 20;
     });
-    expect(plainDarkFooter).toBe(true);
+    expect(numberedFooter).toBe(true);
     await page.screenshot({ path: testInfo.outputPath('desktop.png'), fullPage: true });
     await page.getByLabel('Text color', { exact: true }).fill('#ffeecc');
     await page.getByLabel('Background', { exact: true }).fill('#112233');
@@ -71,17 +125,23 @@ test('uploads, paginates, edits and exports matching PNG cards without uploading
     expect(updatedCount).toBeGreaterThan(count);
     const customAppearance = await page.locator('.paper canvas').evaluate((canvas: HTMLCanvasElement) => {
         const context = canvas.getContext('2d')!;
-        return { background: Array.from(context.getImageData(0, 0, 1, 1).data), ink: context.fillStyle, font: context.font };
+        const pixels = context.getImageData(0, 0, canvas.width, 1200).data;
+        let customTextPixels = 0;
+        for (let index = 0; index < pixels.length; index += 4) {
+            if (pixels[index] > 230 && pixels[index + 1] > 210 && pixels[index + 2] > 175) customTextPixels++;
+        }
+        return { background: Array.from(context.getImageData(0, 0, 1, 1).data), footerColor: context.fillStyle, customTextPixels };
     });
     expect(customAppearance.background).toEqual([17, 34, 51, 255]);
-    expect(customAppearance.ink).toBe('#ffeecc');
-    expect(customAppearance.font).toContain('99px');
+    expect(customAppearance.footerColor).toBe('#b7bec4');
+    expect(customAppearance.customTextPixels).toBeGreaterThan(50);
     const preview = await page.locator('.paper canvas').evaluate((canvas: HTMLCanvasElement) => canvas.toDataURL('image/png').split(',')[1]);
     const downloaded = page.waitForEvent('download');
     await page.getByRole('button', { name: 'Download ZIP' }).click();
     const download = await downloaded;
     expect(download.suggestedFilename()).toBe('Updated-title-cards.zip');
-    const files = unzipSync(await readFile((await download.path())!));
+    const zipBytes = new Uint8Array(await readFile((await download.path())!));
+    const files = unzipSync(zipBytes);
     expect(Object.keys(files)).toHaveLength(updatedCount);
     expect(Object.keys(files).sort()).toEqual(Array.from({ length: updatedCount }, (_, index) => `card-${String(index + 1).padStart(3, '0')}.png`));
     for (const png of Object.values(files)) {
@@ -89,6 +149,14 @@ test('uploads, paginates, edits and exports matching PNG cards without uploading
         const header = new DataView(png.buffer, png.byteOffset, png.byteLength);
         expect(header.getUint32(16)).toBe(1080);
         expect(header.getUint32(20)).toBe(1350);
+    }
+    const imageTimes = Object.keys(files).sort().map((name) => exifCaptureTime(files[name]));
+    const archiveTimes = zipEntryTimes(zipBytes);
+    expect(imageTimes).toHaveLength(updatedCount);
+    expect(archiveTimes).toHaveLength(updatedCount);
+    for (let index = 1; index < updatedCount; index++) {
+        expect(imageTimes[index - 1] - imageTimes[index]).toBe(60_000);
+        expect(archiveTimes[index - 1] - archiveTimes[index]).toBe(60_000);
     }
     const exportedPixels = PNG.sync.read(Buffer.from(files['card-001.png'])).data;
     const previewPixels = PNG.sync.read(Buffer.from(preview, 'base64')).data;

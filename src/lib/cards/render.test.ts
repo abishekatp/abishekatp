@@ -6,7 +6,7 @@ describe('Instagram card appearance', () => {
     it('renders white text on graphite without a book footer', () => {
         const fills: string[] = [];
         const context = {
-            fillStyle: '', font: '', textBaseline: '',
+            fillStyle: '', font: '', textBaseline: '', textAlign: '',
             fillRect: vi.fn(() => { fills.push(context.fillStyle); }),
             fillText: vi.fn()
         };
@@ -21,9 +21,10 @@ describe('Instagram card appearance', () => {
         }, 0, 5);
         expect(fills[0]).toBe('#272a2e');
         expect(context.fillRect.mock.calls).toHaveLength(2);
-        expect(context.fillText.mock.calls).toEqual([['A real thought', 96, 400]]);
-        expect(context.font).toContain('Cards Sans');
-        expect(context.fillStyle).toBe(editorial.ink);
-        expect(context.fillStyle).toBe('#ffffff');
+        expect(context.fillText.mock.calls).toEqual([['A real thought', 96, 400], ['01', 984, 1282]]);
+        expect(context.font).toBe('400 22px "Cards Sans"');
+        expect(context.fillStyle).toBe(editorial.muted);
+        expect(context.textAlign).toBe('left');
+        expect(editorial.ink).toBe('#ffffff');
     });
 });

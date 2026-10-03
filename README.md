@@ -22,10 +22,14 @@ The Cards tab opens a standalone Markdown-to-Instagram-card tool. Choose a `.md`
 or `.markdown` file, edit the title or source if needed, generate a preview, and
 download numbered 1080 x 1350 PNGs in a ZIP. Input is processed in your browser;
 it is never uploaded, saved to browser storage, or read from this site's posts.
+Cards include capture-time metadata spaced one minute apart (card 001 is newest)
+and matching ZIP modification times. This helps galleries sorted newest-first keep
+carousel order; galleries that sort by import time or ignore PNG metadata may still
+show a different order. Zero-padded filenames remain as a fallback.
 
 The first template is **Editorial**, with a dark graphite background, white text,
-a soft mint accent, and Source Sans 3 typography. Exported slides have no printed
-page numbers or footer decoration; slide navigation stays in the workspace. Fonts
+a soft mint accent, and Source Sans 3 typography. Exported slides have a discreet
+two-digit page number at the bottom right; slide navigation stays in the workspace. Fonts
 are bundled locally. Templates, parsing, measured pagination, rendering, and export
 live separately in `src/lib/cards` so more templates can be added later.
 

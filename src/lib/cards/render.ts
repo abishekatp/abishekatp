@@ -8,7 +8,7 @@ export function canvasMeasure(context: CanvasRenderingContext2D, template: CardT
     };
 }
 
-export function renderCard(canvas: HTMLCanvasElement, card: CardLayout, _index: number, _total: number, template: CardTemplate = editorial): void {
+export function renderCard(canvas: HTMLCanvasElement, card: CardLayout, index: number, _total: number, template: CardTemplate = editorial): void {
     canvas.style.setProperty('-webkit-font-smoothing', 'antialiased');
     canvas.style.setProperty('-moz-osx-font-smoothing', 'grayscale');
     canvas.width = template.width;
@@ -25,4 +25,9 @@ export function renderCard(canvas: HTMLCanvasElement, card: CardLayout, _index: 
         context.font = fontString(template, operation.style);
         context.fillText(operation.text, operation.x, operation.y);
     }
+    context.fillStyle = template.muted;
+    context.font = '400 22px "Cards Sans"';
+    context.textAlign = 'right';
+    context.fillText(String(index + 1).padStart(2, '0'), template.width - template.margin, template.height - 68);
+    context.textAlign = 'left';
 }

@@ -1,7 +1,7 @@
 ---
 title: What Do We Mean by Emotional Maturity?
 date: 2026-10-14
-description: Knowing and Doing Are Not the Same
+description: Knowing and doing are not the same
 ---
 
 These days, many of us use the term emotional maturity without understanding its meaning. We ask people to be emotionally mature, but a lot of times we ourselves don’t know how to be.

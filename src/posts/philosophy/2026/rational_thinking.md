@@ -1,6 +1,8 @@
-# Rational Thinker \- Why and How to Be One?
-
-## **The Internet and AI Made It Even More Critical**
+---
+title: Rational Thinker - Why and How to Be One?
+date: 2026-10-24
+description: The Internet and AI Made It Even More Critical
+---
 
 Once I asked myself, if I had to teach my children only one skill, then what would it be? I think it should be rational thinking.
 

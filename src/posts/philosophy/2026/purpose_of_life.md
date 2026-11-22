@@ -1,0 +1,96 @@
+---
+title: Meaning and Purpose of Life
+date: 2026-11-23
+description: It’s Obvious, Yet Critical!
+---
+
+At some point in time, most of us might have wondered what the point of life and everything around it is. Is there any meaning or purpose to it?
+
+First of all, can we differentiate between the meaning and purpose of life? They might seem like the same thing, but actually they are two sides of the same coin.
+
+Both of these things try to help us figure out what to do with our lives. When we lack purpose, we do not have any direction in life, and every random event influences the course of our lives.
+
+Also, without knowing the actual intention behind them, life can get overwhelming, because we might start searching for them in the wrong places.
+
+This is where we get into relationships for the wrong reasons, get addicted to things, and make similar catastrophic life decisions.
+
+Let’s see some of the ways we define these terms.
+
+### **Meaning of Life**
+
+Some of us believe that there is no meaning to life at all. But we are actually giving some meaning to life by saying this. That is, the meaning of a human life is no meaning at all. It is not just a word game, but an irony.
+
+Sometimes we don’t even get a chance to think about the meaning of life. We are just fighting for our survival in our daily lives. We go with the flow without consciously choosing it.
+
+For example, in our day-to-day life, we see a lot of people just worrying about how to eat the next day or how to run a house with this month’s salary.
+
+At other times, we define a meaning for our lives, and based on that, we try to construct our purpose on top of it. Meaning is an abstract thing, which we can’t do anything about. Purpose is something that we can act on.
+
+When we have a clear purpose, it can give us direction. Our next step would be figuring out a series of long-term and short-term goals to achieve that purpose.
+
+For example, in each of the following cases, we try to explain the meaning and associated purposes that we give to our lives.
+
+### **Purpose That Follows Meaning**
+
+Some of us think that helping others is the meaning of life. We try to do that in different ways, like pursuing different careers, such as doctor, lawyer, business owner, entertainer, animal rights activist, and many more.
+
+Some of us think that the meaning of life is to experience and enjoy the little that we have here. We try to do that by earning more money, by living a carefree life, by travelling around the world, by trying to experience all kinds of pleasures and many such things.
+
+Some of us think we don’t know the meaning, and there should be some big purpose behind all this. We try to find certainty by constructing gods, religions, spirits, the afterlife, and many such ideologies to find the purpose through this path.
+
+Some of us think that the meaning of life is connected with people and related things. We try to find purpose through relationships, family, love, morality, compassion, and similar things. One such example would be people who want to build homes, buy cars, have children, and do similar things.
+
+All of these are about figuring out a meaningful and satisfactory way to spend our time in this life.
+
+Yes, it’s that obvious and trivial. Yet we ignore it and try to chase a definition of purpose or success from social media.
+
+Without this intention, life lacks curiosity, desire for the betterment of life, and some kind of satisfaction. If all of our ancestors did just the bare minimum to survive, then we wouldn’t have the life that we are living today.
+
+But also, we can’t conclude that they did all the things they did only for us to enjoy. There can be many psychological, survival, and biological reasons behind this kind of human behaviour.
+
+I strongly believe that this curiosity, strong drive for the betterment, and longing for the meaning of life are what make human life exciting and something to cherish.
+
+### **Personal Story**
+
+Now let’s see how I have used this knowledge in my personal life.
+
+After understanding this pattern, I started looking at the meaning and purpose differently. It helped me to come out of the pressure to find some purpose or goal immediately. It helped me get rid of constraints around the definition of purpose, goal, or success.
+
+For me, whatever helps me stay curious and helps with the betterment of life would be a meaningful way to spend my time. Also, I want to explore and experience life.
+
+That’s the reason I get excited every time I hear about a new invention, medical discovery, colonisation of Mars, etc.
+
+But these meanings are too generic to act on anything specific. They would lack motivation and an action plan for what to do in my day-to-day life. So I tried to find something actionable, and that’s where purpose comes into play.
+
+Reading books, travelling to places, and writing these blogs are my ways of achieving that.
+
+Also, I can’t make life better just by hoping for it; that’s the reason I chose science and technology as my career. I think it could contribute to the positive improvement of human lives.
+
+If I want to make people’s lives better, then it should start with my surroundings. That’s the reason why some of my decisions are influenced by family and relationships as well.
+
+### **The Bottleneck**
+
+But to do many of these things, I need wealth. In today’s world, money has become essential for achieving many of these things.
+
+Building such wealth and financial freedom is not a trivial thing. But if I achieve it, then it could give me freedom in life. The freedom would give me the option to focus on my true desire, instead of just fighting for survival.
+
+So each day, two of my inner selves are fighting with each other to get my attention and time. I haven’t yet figured out a way to end this inner turmoil.
+
+Instead of waiting for the perfect time to do what I truly want to do, I started managing both in parallel.
+
+It seems to work reasonably well at times and feels overwhelming at other times.
+
+But if I am self-aware about what I am dealing with here, then it helps me handle these situations in a better way.
+
+### **The Conclusion**
+
+The importance of understanding these two terms is that it helps us to make peace with our actions regardless of their outcomes.
+
+It detaches us from society’s definition of success and meaning.
+
+If finding it ever becomes a necessity and something that constantly and indefinitely worries us, then we should revisit it to gain perspective and understanding about it.
+
+Each time life gets overwhelming, we should remind ourselves of its true intention.
+
+Then our search for meaning and purpose will be a peaceful and exciting journey. The journey itself will become something to cherish and enjoy.
+
